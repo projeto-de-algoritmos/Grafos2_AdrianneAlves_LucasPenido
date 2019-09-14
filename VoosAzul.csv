@@ -1,0 +1,647 @@
+Aeroporto.Origem,Aeroporto.Destino,Voos,Cidade.Origem,Estado.Origem,Cidade.Destino,Estado.Destino,LongDest,LatDest,LongOrig,LatOrig
+Adalberto Mendes Da Silva,Afonso Pena,AZU - 5145,Cascavel,PR,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-53.501918,-25.001815
+Adalberto Mendes Da Silva,Guarulhos - Governador Andre Franco Montoro,AZU - 5045,Cascavel,PR,Guarulhos,SP,-46.478126,-23.434552899999996,-53.501918,-25.001815
+Adalberto Mendes Da Silva,Viracopos,AZU - 4371,Cascavel,PR,Campinas,SP,-47.1375685,-23.008205,-53.501918,-25.001815
+Aeroporto De Jaguaruna,Viracopos,AZU - 5189,Jaguaruna,SC,Campinas,SP,-47.1375685,-23.008205,-49.0663451,-28.6767653
+Aeroporto Internacional Do Rio De Janeiro/Galeao,Bartolomeu Lisandro,AZU - 2672,Rio De Janeiro,RJ,Campos Dos Goytacazes,RJ,-41.30818370000001,-21.7011171,-43.2494233,-22.8134098
+Aeroporto Internacional Do Rio De Janeiro/Galeao,Macae,AZU - 2460,Rio De Janeiro,RJ,Macae,RJ,-41.76548,-22.343016,-43.2494233,-22.8134098
+Aeroporto Internacional Do Rio De Janeiro/Galeao,Tancredo Neves,AZU - 2570,Rio De Janeiro,RJ,Confins,MG,-43.965396000000005,-19.634099,-43.2494233,-22.8134098
+Aeroporto Internacional Do Rio De Janeiro/Galeao,Viracopos,AZU - 4194,Rio De Janeiro,RJ,Campinas,SP,-47.1375685,-23.008205,-43.2494233,-22.8134098
+Aeroporto Regional Plinio Alarcon,Viracopos,AZU - 4998,Tres Lagoas,MG,Campinas,SP,-47.1375685,-23.008205,-51.680240399999995,-20.754857
+Afonso Pena,Adalberto Mendes Da Silva,AZU - 5146,Sao Jose Dos Pinhais,PR,Cascavel,PR,-53.501918,-25.001815,-49.1724811,-25.5327132
+Afonso Pena,Campo Grande,AZU - 2852,Sao Jose Dos Pinhais,PR,Campo Grande,MS,-54.6741233,-20.4686937,-49.1724811,-25.5327132
+Afonso Pena,Cataratas,AZU - 2804,Sao Jose Dos Pinhais,PR,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-49.1724811,-25.5327132
+Afonso Pena,Congonhas,AZU - 2871,Sao Jose Dos Pinhais,PR,Sao Paulo,SP,-46.6565842,-23.6273246,-49.1724811,-25.5327132
+Afonso Pena,Governador Jose Richa,AZU - 2478,Sao Jose Dos Pinhais,PR,Londrina,PR,-51.133159899999995,-23.332071399999997,-49.1724811,-25.5327132
+Afonso Pena,Guararapes - Gilberto Freyre,AZU - 2448,Sao Jose Dos Pinhais,PR,Recife,PE,-34.924015399999995,-8.1259315,-49.1724811,-25.5327132
+Afonso Pena,Guarulhos - Governador Andre Franco Montoro,AZU - 2467,Sao Jose Dos Pinhais,PR,Guarulhos,SP,-46.478126,-23.434552899999996,-49.1724811,-25.5327132
+Afonso Pena,Lauro Kurtz,AZU - 4986,Sao Jose Dos Pinhais,PR,Passo Fundo,RS,-52.3296274,-28.2428363,-49.1724811,-25.5327132
+Afonso Pena,Porto Seguro,AZU - 2456,Sao Jose Dos Pinhais,PR,Porto Seguro,BA,-39.0821431,-16.4395303,-49.1724811,-25.5327132
+Afonso Pena,Regional De Maringa - Silvio Name Junior,AZU - 4982,Sao Jose Dos Pinhais,PR,Maringa,PR,-52.0164842,-23.4766098,-49.1724811,-25.5327132
+Afonso Pena,Salgado Filho,AZU - 2479,Sao Jose Dos Pinhais,PR,Porto Alegre,RS,-51.175381099999996,-29.9934732,-49.1724811,-25.5327132
+Afonso Pena,Santa Genoveva,AZU - 2726,Sao Jose Dos Pinhais,PR,Goiania,GO,-49.2221166,-16.632488000000002,-49.1724811,-25.5327132
+Afonso Pena,Santos Dumont,AZU - 2974,Sao Jose Dos Pinhais,PR,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-49.1724811,-25.5327132
+Afonso Pena,Tancredo Neves,AZU - 4952,Sao Jose Dos Pinhais,PR,Confins,MG,-43.965396000000005,-19.634099,-49.1724811,-25.5327132
+Afonso Pena,Viracopos,AZU - 2475,Sao Jose Dos Pinhais,PR,Campinas,SP,-47.1375685,-23.008205,-49.1724811,-25.5327132
+Altamira,Carajas,AZU - 5027,Altamira,PA,Parauapebas,PA,-50.0010055,-6.114454,-52.2490864,-3.2535656000000004
+Altamira,Itaituba,AZU - 2834,Altamira,PA,Itaituba,PA,-56.0068645,-4.2457249,-52.2490864,-3.2535656000000004
+Altamira,Maestro Wilson Fonseca,AZU - 2909,Altamira,PA,Santarem,PA,-54.786243299999995,-2.4248295,-52.2490864,-3.2535656000000004
+Altamira,Tancredo Neves,AZU - 2843,Altamira,PA,Confins,MG,-43.965396000000005,-19.634099,-52.2490864,-3.2535656000000004
+Altamira,Val De Cans,AZU - 2426,Altamira,PA,Belem,PA,-48.4775227,-1.3820615,-52.2490864,-3.2535656000000004
+Araguaina,Brigadeiro Lysias Rodrigues,AZU - 2509,Araguaina,TO,Palmas,TO,-48.3575251,-10.294325599999999,-48.2405331,-7.228391499999999
+Araguaina,Maraba,AZU - 2829,Araguaina,TO,Maraba,PA,-49.1369385,-5.3717191,-48.2405331,-7.228391499999999
+Araguaina,Presidente Juscelino Kubitschek,AZU - 2928,Araguaina,TO,Brasilia,DF,-47.9172348,-15.869736900000001,-48.2405331,-7.228391499999999
+Atlas Brasil Cantanhede,Eduardo Gomes,AZU - 2841,Boa Vista,RR,Manaus,AM,-60.046324899999995,-3.0358473999999998,-60.69259029999999,2.8419237999999996
+Bahia - Jorge Amado,Congonhas,AZU - 2987,Ilheus,BA,Sao Paulo,SP,-46.6565842,-23.6273246,-39.0317095,-14.8140511
+Bahia - Jorge Amado,Deputado Luis Eduardo Magalhaes,AZU - 4462,Ilheus,BA,Salvador,BA,-38.3312411,-12.9110977,-39.0317095,-14.8140511
+Bahia - Jorge Amado,Guararapes - Gilberto Freyre,AZU - 2994,Ilheus,BA,Recife,PE,-34.924015399999995,-8.1259315,-39.0317095,-14.8140511
+Bahia - Jorge Amado,Guarulhos - Governador Andre Franco Montoro,AZU - 2515,Ilheus,BA,Guarulhos,SP,-46.478126,-23.434552899999996,-39.0317095,-14.8140511
+Bahia - Jorge Amado,Tancredo Neves,AZU - 2869,Ilheus,BA,Confins,MG,-43.965396000000005,-19.634099,-39.0317095,-14.8140511
+Bahia - Jorge Amado,Viracopos,AZU - 4463,Ilheus,BA,Campinas,SP,-47.1375685,-23.008205,-39.0317095,-14.8140511
+Barra Do Garcas,Marechal Rondon,AZU - 4207,Barra Do Garcas,MT,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-52.390556,-15.858693400000002
+Barra Do Garcas,Santa Genoveva,AZU - 4206,Barra Do Garcas,MT,Goiania,GO,-49.2221166,-16.632488000000002,-52.390556,-15.858693400000002
+Barreiras,Deputado Luis Eduardo Magalhaes,AZU - 2715,Barreiras,BA,Salvador,BA,-38.3312411,-12.9110977,-45.010200299999994,-12.078983000000001
+Barreiras,Presidente Juscelino Kubitschek,AZU - 2714,Barreiras,BA,Brasilia,DF,-47.9172348,-15.869736900000001,-45.010200299999994,-12.078983000000001
+Barreiras,Tancredo Neves,AZU - 2465,Barreiras,BA,Confins,MG,-43.965396000000005,-19.634099,-45.010200299999994,-12.078983000000001
+Bartolomeu Lisandro,Aeroporto Internacional Do Rio De Janeiro/Galeao,AZU - 2673,Campos Dos Goytacazes,RJ,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-41.30818370000001,-21.7011171
+Bartolomeu Lisandro,Cabo Frio,AZU - 2569,Campos Dos Goytacazes,RJ,Cabo Frio,RJ,-42.079235700000005,-22.9256289,-41.30818370000001,-21.7011171
+Bartolomeu Lisandro,Santos Dumont,AZU - 4009,Campos Dos Goytacazes,RJ,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-41.30818370000001,-21.7011171
+Bauru/Arealva,Frank Miloye Milenkovich,AZU - 4417,Arealva,SP,Marilia,SP,-49.9298086,-22.1970898,-49.0721697,-22.165992199999998
+Bauru/Arealva,Viracopos,AZU - 4222,Arealva,SP,Campinas,SP,-47.1375685,-23.008205,-49.0721697,-22.165992199999998
+Bonito,Corumba,AZU - 4471,Bonito,MS,Corumba,MS,-57.6608272,-19.016234,-56.4498277,-21.243192
+Bonito,Guarulhos - Governador Andre Franco Montoro,AZU - 2911,Bonito,MS,Guarulhos,SP,-46.478126,-23.434552899999996,-56.4498277,-21.243192
+Bonito,Viracopos,AZU - 4057,Bonito,MS,Campinas,SP,-47.1375685,-23.008205,-56.4498277,-21.243192
+Brigadeiro Cabral,Viracopos,AZU - 6937,Divinopolis,MG,Campinas,SP,-47.1375685,-23.008205,-44.873941200000004,-20.1734608
+Brigadeiro Camarao,Marechal Rondon,AZU - 2633,Vilhena,RO,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-60.10048760000001,-12.689778500000001
+Brigadeiro Lysias Rodrigues,Araguaina,AZU - 2508,Palmas,TO,Araguaina,TO,-48.2405331,-7.228391499999999,-48.3575251,-10.294325599999999
+Brigadeiro Lysias Rodrigues,Maraba,AZU - 4401,Palmas,TO,Maraba,PA,-49.1369385,-5.3717191,-48.3575251,-10.294325599999999
+Brigadeiro Lysias Rodrigues,Presidente Juscelino Kubitschek,AZU - 2509,Palmas,TO,Brasilia,DF,-47.9172348,-15.869736900000001,-48.3575251,-10.294325599999999
+Brigadeiro Lysias Rodrigues,Santa Genoveva,AZU - 4149,Palmas,TO,Goiania,GO,-49.2221166,-16.632488000000002,-48.3575251,-10.294325599999999
+Brigadeiro Lysias Rodrigues,Tancredo Neves,AZU - 2459,Palmas,TO,Confins,MG,-43.965396000000005,-19.634099,-48.3575251,-10.294325599999999
+Cabo Frio,Bartolomeu Lisandro,AZU - 2568,Cabo Frio,RJ,Campos Dos Goytacazes,RJ,-41.30818370000001,-21.7011171,-42.079235700000005,-22.9256289
+Cabo Frio,Pampulha - Carlos Drummond De Andrade,AZU - 2589,Cabo Frio,RJ,Belo Horizonte,MG,-43.9548899,-19.8498475,-42.079235700000005,-22.9256289
+Cabo Frio,Tancredo Neves,AZU - 2823,Cabo Frio,RJ,Confins,MG,-43.965396000000005,-19.634099,-42.079235700000005,-22.9256289
+Cabo Frio,Viracopos,AZU - 2569,Cabo Frio,RJ,Campinas,SP,-47.1375685,-23.008205,-42.079235700000005,-22.9256289
+Cacoal,Marechal Rondon,AZU - 2681,Cacoal,RO,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-61.4499127,-11.490946000000001
+Campo Grande,Afonso Pena,AZU - 2853,Campo Grande,MS,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-54.6741233,-20.4686937
+Campo Grande,Corumba,AZU - 6938,Campo Grande,MS,Corumba,MS,-57.6608272,-19.016234,-54.6741233,-20.4686937
+Campo Grande,Governador Jose Richa,AZU - 4407,Campo Grande,MS,Londrina,PR,-51.133159899999995,-23.332071399999997,-54.6741233,-20.4686937
+Campo Grande,Guarulhos - Governador Andre Franco Montoro,AZU - 2587,Campo Grande,MS,Guarulhos,SP,-46.478126,-23.434552899999996,-54.6741233,-20.4686937
+Campo Grande,Marechal Rondon,AZU - 2852,Campo Grande,MS,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-54.6741233,-20.4686937
+Campo Grande,Regional De Maringa - Silvio Name Junior,AZU - 4360,Campo Grande,MS,Maringa,PR,-52.0164842,-23.4766098,-54.6741233,-20.4686937
+Campo Grande,Santa Genoveva,AZU - 5793,Campo Grande,MS,Goiania,GO,-49.2221166,-16.632488000000002,-54.6741233,-20.4686937
+Campo Grande,Santos Dumont,AZU - 2575,Campo Grande,MS,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-54.6741233,-20.4686937
+Campo Grande,Tancredo Neves,AZU - 2625,Campo Grande,MS,Confins,MG,-43.965396000000005,-19.634099,-54.6741233,-20.4686937
+Campo Grande,Viracopos,AZU - 2913,Campo Grande,MS,Campinas,SP,-47.1375685,-23.008205,-54.6741233,-20.4686937
+Carajas,Altamira,AZU - 5026,Parauapebas,PA,Altamira,PA,-52.2490864,-3.2535656000000004,-50.0010055,-6.114454
+Carajas,Maraba,AZU - 5026,Parauapebas,PA,Maraba,PA,-49.1369385,-5.3717191,-50.0010055,-6.114454
+Carajas,Tancredo Neves,AZU - 5027,Parauapebas,PA,Confins,MG,-43.965396000000005,-19.634099,-50.0010055,-6.114454
+Carajas,Val De Cans,AZU - 2809,Parauapebas,PA,Belem,PA,-48.4775227,-1.3820615,-50.0010055,-6.114454
+Cataratas,Afonso Pena,AZU - 2805,Foz Do Iguacu,PR,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-54.4909265,-25.5938142
+Cataratas,Hercilio Luz,AZU - 5268,Foz Do Iguacu,PR,Florianopolis,SC,-48.5459657,-27.670118,-54.4909265,-25.5938142
+Cataratas,Marechal Rondon,AZU - 5170,Foz Do Iguacu,PR,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-54.4909265,-25.5938142
+Cataratas,Salgado Filho,AZU - 5173,Foz Do Iguacu,PR,Porto Alegre,RS,-51.175381099999996,-29.9934732,-54.4909265,-25.5938142
+Cataratas,Tancredo Neves,AZU - 2673,Foz Do Iguacu,PR,Confins,MG,-43.965396000000005,-19.634099,-54.4909265,-25.5938142
+Cataratas,Viracopos,AZU - 2506,Foz Do Iguacu,PR,Campinas,SP,-47.1375685,-23.008205,-54.4909265,-25.5938142
+Coari,Eduardo Gomes,AZU - 2819,Coari,AM,Manaus,AM,-60.046324899999995,-3.0358473999999998,-65.3491463,-4.88428
+Congonhas,Afonso Pena,AZU - 2541,Sao Paulo,SP,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+Congonhas,Bahia - Jorge Amado,AZU - 2994,Sao Paulo,SP,Ilheus,BA,-39.0317095,-14.8140511,-46.6565842,-23.6273246
+Congonhas,Guararapes - Gilberto Freyre,AZU - 5160,Sao Paulo,SP,Recife,PE,-34.924015399999995,-8.1259315,-46.6565842,-23.6273246
+Congonhas,Porto Seguro,AZU - 2927,Sao Paulo,SP,Porto Seguro,BA,-39.0821431,-16.4395303,-46.6565842,-23.6273246
+Congonhas,Salgado Filho,AZU - 2618,Sao Paulo,SP,Porto Alegre,RS,-51.175381099999996,-29.9934732,-46.6565842,-23.6273246
+Congonhas,Santos Dumont,AZU - 5100,Sao Paulo,SP,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-46.6565842,-23.6273246
+Congonhas,Tancredo Neves,AZU - 2472,Sao Paulo,SP,Confins,MG,-43.965396000000005,-19.634099,-46.6565842,-23.6273246
+Coronel Altino Machado,Pampulha - Carlos Drummond De Andrade,AZU - 2473,Governador Valadares,MG,Belo Horizonte,MG,-43.9548899,-19.8498475,-41.9854826,-18.897595499999998
+Coronel Altino Machado,Tancredo Neves,AZU - 2473,Governador Valadares,MG,Confins,MG,-43.965396000000005,-19.634099,-41.9854826,-18.897595499999998
+Correia Pinto,Viracopos,AZU - 6959,Lages,SC,Campinas,SP,-47.1375685,-23.008205,-50.2792827,-27.781831800000003
+Corumba,Bonito,AZU - 5734,Corumba,MS,Bonito,MS,-56.4498277,-21.243192,-57.6608272,-19.016234
+Corumba,Campo Grande,AZU - 6939,Corumba,MS,Campo Grande,MS,-54.6741233,-20.4686937,-57.6608272,-19.016234
+Corumba,Viracopos,AZU - 5195,Corumba,MS,Campinas,SP,-47.1375685,-23.008205,-57.6608272,-19.016234
+Deputado Benedito Santiago,Marechal Rondon,AZU - 2611,Alta Floresta,MT,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-56.105199600000006,-9.8723571
+Deputado Luis Eduardo Magalhaes,Bahia - Jorge Amado,AZU - 4463,Salvador,BA,Ilheus,BA,-39.0317095,-14.8140511,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Barreiras,AZU - 2714,Salvador,BA,Barreiras,BA,-45.010200299999994,-12.078983000000001,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Eurico De Aguiar Salles,AZU - 4442,Salvador,BA,Vitoria,ES,-40.2835346,-20.257648899999996,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Governador Aluizio Alves,AZU - 2642,Salvador,BA,Natal,RN,-35.3673819,-5.768370200000001,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Guararapes - Gilberto Freyre,AZU - 2718,Salvador,BA,Recife,PE,-34.924015399999995,-8.1259315,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Guarulhos - Governador Andre Franco Montoro,AZU - 2719,Salvador,BA,Guarulhos,SP,-46.478126,-23.434552899999996,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Horacio De Mattos,AZU - 2790,Salvador,BA,Lencois,BA,-41.2755432,-12.4837489,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Joao Durval Carneiro,AZU - 2708,Salvador,BA,Feira De Santana,BA,-38.907428100000004,-12.2011856,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Paulo Afonso,AZU - 2788,Salvador,BA,Paulo Afonso,BA,-38.249740700000004,-9.4006288,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Porto Seguro,AZU - 2762,Salvador,BA,Porto Seguro,BA,-39.0821431,-16.4395303,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Presidente Castro Pinto,AZU - 2796,Salvador,BA,Bayeux,PB,-34.950613700000005,-7.147060000000001,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Santa Maria,AZU - 6409,Salvador,BA,Aracaju,SE,-37.07624620000001,-10.9822278,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Santos Dumont,AZU - 2535,Salvador,BA,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Tancredo Neves,AZU - 2759,Salvador,BA,Confins,MG,-43.965396000000005,-19.634099,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Viracopos,AZU - 2715,Salvador,BA,Campinas,SP,-47.1375685,-23.008205,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Vitoria Da Conquista,AZU - 2709,Salvador,BA,Vitoria Da Conquista,BA,-40.863057299999994,-14.8662434,-38.3312411,-12.9110977
+Deputado Luis Eduardo Magalhaes,Zumbi Dos Palmares,AZU - 6417,Salvador,BA,Rio Largo,AL,-35.792882899999995,-9.5116056,-38.3312411,-12.9110977
+Diomicio Freitas,Viracopos,AZU - 4124,Forquilhinha,SC,Campinas,SP,-47.1375685,-23.008205,-49.4222546,-28.7232502
+Eduardo Gomes,Atlas Brasil Cantanhede,AZU - 2832,Manaus,AM,Boa Vista,RR,-60.69259029999999,2.8419237999999996,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Coari,AZU - 2818,Manaus,AM,Coari,AM,-65.3491463,-4.88428,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Governador Jorge Teixeira De Oliveira,AZU - 2570,Manaus,AM,Porto Velho,RO,-63.89832,-8.7141702,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Julio Belem,AZU - 2824,Manaus,AM,Parintins,AM,-56.7696703,-2.669512,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Maestro Wilson Fonseca,AZU - 2654,Manaus,AM,Santarem,PA,-54.786243299999995,-2.4248295,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Pinto Martins,AZU - 2651,Manaus,AM,Fortaleza,CE,-38.5330966,-3.7771555,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Presidente Juscelino Kubitschek,AZU - 2865,Manaus,AM,Brasilia,DF,-47.9172348,-15.869736900000001,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Tabatinga,AZU - 2800,Manaus,AM,Tabatinga,AM,-69.939394,-4.2503801,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Tancredo Neves,AZU - 2561,Manaus,AM,Confins,MG,-43.965396000000005,-19.634099,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Tefe,AZU - 5088,Manaus,AM,Tefe,AM,-64.7250955,-3.3804019999999997,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Val De Cans,AZU - 2719,Manaus,AM,Belem,PA,-48.4775227,-1.3820615,-60.046324899999995,-3.0358473999999998
+Eduardo Gomes,Viracopos,AZU - 2841,Manaus,AM,Campinas,SP,-47.1375685,-23.008205,-60.046324899999995,-3.0358473999999998
+Eirunepe,Tefe,AZU - 2875,Eirunepe,AM,Tefe,AM,-64.7250955,-3.3804019999999997,-69.88315190000002,-6.6368523
+Estadual Dario Guarita,Viracopos,AZU - 4333,Aracatuba,SP,Campinas,SP,-47.1375685,-23.008205,-50.4259826,-21.137590799999998
+Eurico De Aguiar Salles,Deputado Luis Eduardo Magalhaes,AZU - 2590,Vitoria,ES,Salvador,BA,-38.3312411,-12.9110977,-40.2835346,-20.257648899999996
+Eurico De Aguiar Salles,Guarulhos - Governador Andre Franco Montoro,AZU - 2859,Vitoria,ES,Guarulhos,SP,-46.478126,-23.434552899999996,-40.2835346,-20.257648899999996
+Eurico De Aguiar Salles,Pampulha - Carlos Drummond De Andrade,AZU - 5713,Vitoria,ES,Belo Horizonte,MG,-43.9548899,-19.8498475,-40.2835346,-20.257648899999996
+Eurico De Aguiar Salles,Santos Dumont,AZU - 2408,Vitoria,ES,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-40.2835346,-20.257648899999996
+Eurico De Aguiar Salles,Tancredo Neves,AZU - 2518,Vitoria,ES,Confins,MG,-43.965396000000005,-19.634099,-40.2835346,-20.257648899999996
+Eurico De Aguiar Salles,Viracopos,AZU - 4070,Vitoria,ES,Campinas,SP,-47.1375685,-23.008205,-40.2835346,-20.257648899999996
+Fernando De Noronha,Governador Aluizio Alves,AZU - 2732,Fernando De Noronha,PE,Natal,RN,-35.3673819,-5.768370200000001,-32.4243853,-3.8546145
+Fernando De Noronha,Guararapes - Gilberto Freyre,AZU - 2637,Fernando De Noronha,PE,Recife,PE,-34.924015399999995,-8.1259315,-32.4243853,-3.8546145
+Frank Miloye Milenkovich,Bauru/Arealva,AZU - 4222,Marilia,SP,Arealva,SP,-49.0721697,-22.165992199999998,-49.9298086,-22.1970898
+Frank Miloye Milenkovich,Viracopos,AZU - 4363,Marilia,SP,Campinas,SP,-47.1375685,-23.008205,-49.9298086,-22.1970898
+General Leite De Castro,Viracopos,AZU - 2513,Rio Verde,GO,Campinas,SP,-47.1375685,-23.008205,-50.958645700000005,-17.836782
+Governador Aluizio Alves,Deputado Luis Eduardo Magalhaes,AZU - 2639,Natal,RN,Salvador,BA,-38.3312411,-12.9110977,-35.3673819,-5.768370200000001
+Governador Aluizio Alves,Fernando De Noronha,AZU - 2731,Natal,RN,Fernando De Noronha,PE,-32.4243853,-3.8546145,-35.3673819,-5.768370200000001
+Governador Aluizio Alves,Guararapes - Gilberto Freyre,AZU - 2711,Natal,RN,Recife,PE,-34.924015399999995,-8.1259315,-35.3673819,-5.768370200000001
+Governador Aluizio Alves,Guarulhos - Governador Andre Franco Montoro,AZU - 2477,Natal,RN,Guarulhos,SP,-46.478126,-23.434552899999996,-35.3673819,-5.768370200000001
+Governador Aluizio Alves,Pinto Martins,AZU - 6906,Natal,RN,Fortaleza,CE,-38.5330966,-3.7771555,-35.3673819,-5.768370200000001
+Governador Aluizio Alves,Santa Genoveva,AZU - 2690,Natal,RN,Goiania,GO,-49.2221166,-16.632488000000002,-35.3673819,-5.768370200000001
+Governador Aluizio Alves,Tancredo Neves,AZU - 2753,Natal,RN,Confins,MG,-43.965396000000005,-19.634099,-35.3673819,-5.768370200000001
+Governador Aluizio Alves,Viracopos,AZU - 4195,Natal,RN,Campinas,SP,-47.1375685,-23.008205,-35.3673819,-5.768370200000001
+Governador Jorge Teixeira De Oliveira,Eduardo Gomes,AZU - 2480,Porto Velho,RO,Manaus,AM,-60.046324899999995,-3.0358473999999998,-63.89832,-8.7141702
+Governador Jorge Teixeira De Oliveira,Marechal Rondon,AZU - 2597,Porto Velho,RO,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-63.89832,-8.7141702
+Governador Jorge Teixeira De Oliveira,Placido De Castro,AZU - 5059,Porto Velho,RO,Sena Madureira,AC,-67.894367,-9.870171000000001,-63.89832,-8.7141702
+Governador Jorge Teixeira De Oliveira,Tancredo Neves,AZU - 5251,Porto Velho,RO,Confins,MG,-43.965396000000005,-19.634099,-63.89832,-8.7141702
+Governador Jose Richa,Afonso Pena,AZU - 2479,Londrina,PR,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-51.133159899999995,-23.332071399999997
+Governador Jose Richa,Campo Grande,AZU - 4406,Londrina,PR,Campo Grande,MS,-54.6741233,-20.4686937,-51.133159899999995,-23.332071399999997
+Governador Jose Richa,Guararapes - Gilberto Freyre,AZU - 2516,Londrina,PR,Recife,PE,-34.924015399999995,-8.1259315,-51.133159899999995,-23.332071399999997
+Governador Jose Richa,Marechal Rondon,AZU - 2478,Londrina,PR,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-51.133159899999995,-23.332071399999997
+Governador Jose Richa,Presidente Prudente,AZU - 2516,Londrina,PR,Presidente Prudente,SP,-51.4176625,-22.1783402,-51.133159899999995,-23.332071399999997
+Governador Jose Richa,Salgado Filho,AZU - 4489,Londrina,PR,Porto Alegre,RS,-51.175381099999996,-29.9934732,-51.133159899999995,-23.332071399999997
+Governador Jose Richa,Viracopos,AZU - 2977,Londrina,PR,Campinas,SP,-47.1375685,-23.008205,-51.133159899999995,-23.332071399999997
+Guararapes - Gilberto Freyre,Afonso Pena,AZU - 2449,Recife,PE,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Bahia - Jorge Amado,AZU - 2987,Recife,PE,Ilheus,BA,-39.0317095,-14.8140511,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Congonhas,AZU - 5161,Recife,PE,Sao Paulo,SP,-46.6565842,-23.6273246,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Deputado Luis Eduardo Magalhaes,AZU - 2719,Recife,PE,Salvador,BA,-38.3312411,-12.9110977,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Fernando De Noronha,AZU - 2636,Recife,PE,Fernando De Noronha,PE,-32.4243853,-3.8546145,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Governador Aluizio Alves,AZU - 2710,Recife,PE,Natal,RN,-35.3673819,-5.768370200000001,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Governador Jose Richa,AZU - 2517,Recife,PE,Londrina,PR,-51.133159899999995,-23.332071399999997,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Guarulhos - Governador Andre Franco Montoro,AZU - 2701,Recife,PE,Guarulhos,SP,-46.478126,-23.434552899999996,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Jericoacara,AZU - 5350,Recife,PE,Jericoacara,CE,-40.356232899999995,-2.9058188,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Leite Lopes,AZU - 2565,Recife,PE,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Marechal Cunha Machado,AZU - 4980,Recife,PE,Sao Luis,MA,-44.2348802,-2.5849927000000004,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Orlando Bezerra De Menezes,AZU - 2930,Recife,PE,Juazeiro Do Norte,CE,-39.272229100000004,-7.215097200000001,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Pinto Martins,AZU - 2718,Recife,PE,Fortaleza,CE,-38.5330966,-3.7771555,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Porto Seguro,AZU - 2919,Recife,PE,Porto Seguro,BA,-39.0821431,-16.4395303,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Prefeito Doutor Joao Silva Filho,AZU - 2884,Recife,PE,Parnaiba,PI,-41.7297975,-2.895248,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Presidente Castro Pinto,AZU - 2830,Recife,PE,Bayeux,PB,-34.950613700000005,-7.147060000000001,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Presidente Joao Suassuna,AZU - 6980,Recife,PE,Campina Grande,PB,-35.8940206,-7.2688784,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Presidente Juscelino Kubitschek,AZU - 4239,Recife,PE,Brasilia,DF,-47.9172348,-15.869736900000001,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Presidente Prudente,AZU - 2517,Recife,PE,Presidente Prudente,SP,-51.4176625,-22.1783402,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Santa Genoveva,AZU - 5207,Recife,PE,Goiania,GO,-49.2221166,-16.632488000000002,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Santa Maria,AZU - 2711,Recife,PE,Aracaju,SE,-37.07624620000001,-10.9822278,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Senador Nilo Coelho,AZU - 4488,Recife,PE,Petrolina,PE,-40.5660751,-9.3665077,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Senador Petronio Portella,AZU - 4254,Recife,PE,Teresina,PI,-42.8211703,-5.0635434,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Tancredo Neves,AZU - 2537,Recife,PE,Confins,MG,-43.965396000000005,-19.634099,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Tenente-Coronel Aviador Cesar Bombonato,AZU - 4977,Recife,PE,Uberlandia,MG,-48.2308653,-18.888969,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Val De Cans,AZU - 2657,Recife,PE,Belem,PA,-48.4775227,-1.3820615,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Viracopos,AZU - 2737,Recife,PE,Campinas,SP,-47.1375685,-23.008205,-34.924015399999995,-8.1259315
+Guararapes - Gilberto Freyre,Zumbi Dos Palmares,AZU - 2730,Recife,PE,Rio Largo,AL,-35.792882899999995,-9.5116056,-34.924015399999995,-8.1259315
+Guarulhos - Governador Andre Franco Montoro,Adalberto Mendes Da Silva,AZU - 5044,Guarulhos,SP,Cascavel,PR,-53.501918,-25.001815,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Afonso Pena,AZU - 2466,Guarulhos,SP,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Bahia - Jorge Amado,AZU - 5086,Guarulhos,SP,Ilheus,BA,-39.0317095,-14.8140511,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Bonito,AZU - 2910,Guarulhos,SP,Bonito,MS,-56.4498277,-21.243192,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Campo Grande,AZU - 4158,Guarulhos,SP,Campo Grande,MS,-54.6741233,-20.4686937,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Deputado Luis Eduardo Magalhaes,AZU - 2454,Guarulhos,SP,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Eurico De Aguiar Salles,AZU - 2438,Guarulhos,SP,Vitoria,ES,-40.2835346,-20.257648899999996,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Governador Aluizio Alves,AZU - 2450,Guarulhos,SP,Natal,RN,-35.3673819,-5.768370200000001,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Guararapes - Gilberto Freyre,AZU - 2700,Guarulhos,SP,Recife,PE,-34.924015399999995,-8.1259315,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Hercilio Luz,AZU - 2538,Guarulhos,SP,Florianopolis,SC,-48.5459657,-27.670118,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Lauro Carneiro De Loyola,AZU - 2861,Guarulhos,SP,Joinville,SC,-48.799841799999996,-26.2234999,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Leite Lopes,AZU - 2548,Guarulhos,SP,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Marechal Rondon,AZU - 2480,Guarulhos,SP,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Ministro Victor Konder,AZU - 2514,Guarulhos,SP,Navegantes,SC,-48.649086700000005,-26.8805344,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Pampulha - Carlos Drummond De Andrade,AZU - 2482,Guarulhos,SP,Belo Horizonte,MG,-43.9548899,-19.8498475,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Pinto Martins,AZU - 2746,Guarulhos,SP,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Porto Seguro,AZU - 5366,Guarulhos,SP,Porto Seguro,BA,-39.0821431,-16.4395303,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Presidente Juscelino Kubitschek,AZU - 2433,Guarulhos,SP,Brasilia,DF,-47.9172348,-15.869736900000001,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Regional Da Zona Da Mata,AZU - 2844,Guarulhos,SP,Goiana,MG,-43.1709909,-21.514326800000003,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Regional De Maringa - Silvio Name Junior,AZU - 2624,Guarulhos,SP,Maringa,PR,-52.0164842,-23.4766098,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Salgado Filho,AZU - 2881,Guarulhos,SP,Porto Alegre,RS,-51.175381099999996,-29.9934732,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Santa Genoveva,AZU - 4960,Guarulhos,SP,Goiania,GO,-49.2221166,-16.632488000000002,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Santos Dumont,AZU - 2400,Guarulhos,SP,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Tancredo Neves,AZU - 2410,Guarulhos,SP,Confins,MG,-43.965396000000005,-19.634099,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Tenente-Coronel Aviador Cesar Bombonato,AZU - 5034,Guarulhos,SP,Uberlandia,MG,-48.2308653,-18.888969,-46.478126,-23.434552899999996
+Guarulhos - Governador Andre Franco Montoro,Zumbi Dos Palmares,AZU - 2442,Guarulhos,SP,Rio Largo,AL,-35.792882899999995,-9.5116056,-46.478126,-23.434552899999996
+Hercilio Luz,Cataratas,AZU - 5269,Florianopolis,SC,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-48.5459657,-27.670118
+Hercilio Luz,Guarulhos - Governador Andre Franco Montoro,AZU - 4241,Florianopolis,SC,Guarulhos,SP,-46.478126,-23.434552899999996,-48.5459657,-27.670118
+Hercilio Luz,Lauro Kurtz,AZU - 2981,Florianopolis,SC,Passo Fundo,RS,-52.3296274,-28.2428363,-48.5459657,-27.670118
+Hercilio Luz,Salgado Filho,AZU - 4341,Florianopolis,SC,Porto Alegre,RS,-51.175381099999996,-29.9934732,-48.5459657,-27.670118
+Hercilio Luz,Santos Dumont,AZU - 5051,Florianopolis,SC,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-48.5459657,-27.670118
+Hercilio Luz,Serafin Enoss Bertaso,AZU - 4361,Florianopolis,SC,Chapeco,SC,-52.6606432,-27.134138500000002,-48.5459657,-27.670118
+Hercilio Luz,Viracopos,AZU - 2787,Florianopolis,SC,Campinas,SP,-47.1375685,-23.008205,-48.5459657,-27.670118
+Horacio De Mattos,Deputado Luis Eduardo Magalhaes,AZU - 2791,Lencois,BA,Salvador,BA,-38.3312411,-12.9110977,-41.2755432,-12.4837489
+Horacio De Mattos,Tancredo Neves,AZU - 2821,Lencois,BA,Confins,MG,-43.965396000000005,-19.634099,-41.2755432,-12.4837489
+Itaituba,Altamira,AZU - 2835,Itaituba,PA,Altamira,PA,-52.2490864,-3.2535656000000004,-56.0068645,-4.2457249
+Itaituba,Maestro Wilson Fonseca,AZU - 2826,Itaituba,PA,Santarem,PA,-54.786243299999995,-2.4248295,-56.0068645,-4.2457249
+Itaituba,Val De Cans,AZU - 2827,Itaituba,PA,Belem,PA,-48.4775227,-1.3820615,-56.0068645,-4.2457249
+Jericoacara,Guararapes - Gilberto Freyre,AZU - 5351,Jericoacara,CE,Recife,PE,-34.924015399999995,-8.1259315,-40.356232899999995,-2.9058188
+Ji-Parana,Marechal Rondon,AZU - 4391,Ji-Parana,RO,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-61.848756200000004,-10.8746595
+Joao Durval Carneiro,Deputado Luis Eduardo Magalhaes,AZU - 2709,Feira De Santana,BA,Salvador,BA,-38.3312411,-12.9110977,-38.907428100000004,-12.2011856
+Joao Durval Carneiro,Tancredo Neves,AZU - 2993,Feira De Santana,BA,Confins,MG,-43.965396000000005,-19.634099,-38.907428100000004,-12.2011856
+Joao Durval Carneiro,Viracopos,AZU - 2761,Feira De Santana,BA,Campinas,SP,-47.1375685,-23.008205,-38.907428100000004,-12.2011856
+Joao Durval Carneiro,Vitoria Da Conquista,AZU - 2727,Feira De Santana,BA,Vitoria Da Conquista,BA,-40.863057299999994,-14.8662434,-38.907428100000004,-12.2011856
+Julio Belem,Eduardo Gomes,AZU - 2825,Parintins,AM,Manaus,AM,-60.046324899999995,-3.0358473999999998,-56.7696703,-2.669512
+Lauro Carneiro De Loyola,Guarulhos - Governador Andre Franco Montoro,AZU - 5015,Joinville,SC,Guarulhos,SP,-46.478126,-23.434552899999996,-48.799841799999996,-26.2234999
+Lauro Carneiro De Loyola,Salgado Filho,AZU - 2861,Joinville,SC,Porto Alegre,RS,-51.175381099999996,-29.9934732,-48.799841799999996,-26.2234999
+Lauro Carneiro De Loyola,Viracopos,AZU - 4347,Joinville,SC,Campinas,SP,-47.1375685,-23.008205,-48.799841799999996,-26.2234999
+Lauro Kurtz,Afonso Pena,AZU - 4987,Passo Fundo,RS,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-52.3296274,-28.2428363
+Lauro Kurtz,Hercilio Luz,AZU - 2942,Passo Fundo,RS,Florianopolis,SC,-48.5459657,-27.670118,-52.3296274,-28.2428363
+Lauro Kurtz,Salgado Filho,AZU - 5231,Passo Fundo,RS,Porto Alegre,RS,-51.175381099999996,-29.9934732,-52.3296274,-28.2428363
+Lauro Kurtz,Viracopos,AZU - 2851,Passo Fundo,RS,Campinas,SP,-47.1375685,-23.008205,-52.3296274,-28.2428363
+Leite Lopes,Guararapes - Gilberto Freyre,AZU - 2564,Ribeirao Preto,SP,Recife,PE,-34.924015399999995,-8.1259315,-47.7751674,-21.134750699999998
+Leite Lopes,Guarulhos - Governador Andre Franco Montoro,AZU - 2519,Ribeirao Preto,SP,Guarulhos,SP,-46.478126,-23.434552899999996,-47.7751674,-21.134750699999998
+Leite Lopes,Marechal Rondon,AZU - 2962,Ribeirao Preto,SP,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-47.7751674,-21.134750699999998
+Leite Lopes,Porto Seguro,AZU - 2784,Ribeirao Preto,SP,Porto Seguro,BA,-39.0821431,-16.4395303,-47.7751674,-21.134750699999998
+Leite Lopes,Presidente Juscelino Kubitschek,AZU - 2715,Ribeirao Preto,SP,Brasilia,DF,-47.9172348,-15.869736900000001,-47.7751674,-21.134750699999998
+Leite Lopes,Professor Eriberto Manoel Reino,AZU - 2565,Ribeirao Preto,SP,Sao Jose Do Rio Preto,SP,-49.4066209,-20.8159034,-47.7751674,-21.134750699999998
+Leite Lopes,Santos Dumont,AZU - 2607,Ribeirao Preto,SP,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-47.7751674,-21.134750699999998
+Leite Lopes,Tancredo Neves,AZU - 4368,Ribeirao Preto,SP,Confins,MG,-43.965396000000005,-19.634099,-47.7751674,-21.134750699999998
+Leite Lopes,Viracopos,AZU - 2423,Ribeirao Preto,SP,Campinas,SP,-47.1375685,-23.008205,-47.7751674,-21.134750699999998
+Leite Lopes,Zumbi Dos Palmares,AZU - 4978,Ribeirao Preto,SP,Rio Largo,AL,-35.792882899999995,-9.5116056,-47.7751674,-21.134750699999998
+Macae,Aeroporto Internacional Do Rio De Janeiro/Galeao,AZU - 2461,Macae,RJ,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-41.76548,-22.343016
+Macae,Santos Dumont,AZU - 2461,Macae,RJ,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-41.76548,-22.343016
+Macapa,Trombetas,AZU - 2826,Macapa,AP,Oriximina,PA,-56.390135,-1.4855014,-51.067109499999994,0.05000809999999999
+Macapa,Val De Cans,AZU - 2487,Macapa,AP,Belem,PA,-48.4775227,-1.3820615,-51.067109499999994,0.05000809999999999
+Maestro Marinho Franco,Marechal Rondon,AZU - 4974,Rondonopolis,MT,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-54.721858,-16.5885425
+Maestro Marinho Franco,Viracopos,AZU - 5778,Rondonopolis,MT,Campinas,SP,-47.1375685,-23.008205,-54.721858,-16.5885425
+Maestro Wilson Fonseca,Altamira,AZU - 2887,Santarem,PA,Altamira,PA,-52.2490864,-3.2535656000000004,-54.786243299999995,-2.4248295
+Maestro Wilson Fonseca,Eduardo Gomes,AZU - 2655,Santarem,PA,Manaus,AM,-60.046324899999995,-3.0358473999999998,-54.786243299999995,-2.4248295
+Maestro Wilson Fonseca,Itaituba,AZU - 2827,Santarem,PA,Itaituba,PA,-56.0068645,-4.2457249,-54.786243299999995,-2.4248295
+Maestro Wilson Fonseca,Trombetas,AZU - 2826,Santarem,PA,Oriximina,PA,-56.390135,-1.4855014,-54.786243299999995,-2.4248295
+Maestro Wilson Fonseca,Val De Cans,AZU - 2654,Santarem,PA,Belem,PA,-48.4775227,-1.3820615,-54.786243299999995,-2.4248295
+Major Brigadeiro Trompowsky,Tancredo Neves,AZU - 5172,Varginha,MG,Confins,MG,-43.965396000000005,-19.634099,-45.4738081,-21.586537399999997
+Maraba,Araguaina,AZU - 2928,Maraba,PA,Araguaina,TO,-48.2405331,-7.228391499999999,-49.1369385,-5.3717191
+Maraba,Brigadeiro Lysias Rodrigues,AZU - 4992,Maraba,PA,Palmas,TO,-48.3575251,-10.294325599999999,-49.1369385,-5.3717191
+Maraba,Carajas,AZU - 5027,Maraba,PA,Parauapebas,PA,-50.0010055,-6.114454,-49.1369385,-5.3717191
+Maraba,Presidente Juscelino Kubitschek,AZU - 4137,Maraba,PA,Brasilia,DF,-47.9172348,-15.869736900000001,-49.1369385,-5.3717191
+Maraba,Tancredo Neves,AZU - 2631,Maraba,PA,Confins,MG,-43.965396000000005,-19.634099,-49.1369385,-5.3717191
+Maraba,Tucurui,AZU - 2990,Maraba,PA,Tucurui,PA,-49.720298799999995,-3.7860099999999997,-49.1369385,-5.3717191
+Maraba,Val De Cans,AZU - 2632,Maraba,PA,Belem,PA,-48.4775227,-1.3820615,-49.1369385,-5.3717191
+Marechal Cunha Machado,Guararapes - Gilberto Freyre,AZU - 4981,Sao Luis,MA,Recife,PE,-34.924015399999995,-8.1259315,-44.2348802,-2.5849927000000004
+Marechal Cunha Machado,Pinto Martins,AZU - 2813,Sao Luis,MA,Fortaleza,CE,-38.5330966,-3.7771555,-44.2348802,-2.5849927000000004
+Marechal Cunha Machado,Prefeito Renato Moreira,AZU - 2892,Sao Luis,MA,Imperatriz,MA,-47.4560696,-5.5316945,-44.2348802,-2.5849927000000004
+Marechal Cunha Machado,Senador Petronio Portella,AZU - 4235,Sao Luis,MA,Teresina,PI,-42.8211703,-5.0635434,-44.2348802,-2.5849927000000004
+Marechal Cunha Machado,Tancredo Neves,AZU - 2545,Sao Luis,MA,Confins,MG,-43.965396000000005,-19.634099,-44.2348802,-2.5849927000000004
+Marechal Cunha Machado,Val De Cans,AZU - 4980,Sao Luis,MA,Belem,PA,-48.4775227,-1.3820615,-44.2348802,-2.5849927000000004
+Marechal Rondon,Barra Do Garcas,AZU - 4206,Varzea Grande,MT,Barra Do Garcas,MT,-52.390556,-15.858693400000002,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Brigadeiro Camarao,AZU - 2630,Varzea Grande,MT,Vilhena,RO,-60.10048760000001,-12.689778500000001,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Cacoal,AZU - 2680,Varzea Grande,MT,Cacoal,RO,-61.4499127,-11.490946000000001,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Campo Grande,AZU - 2853,Varzea Grande,MT,Campo Grande,MS,-54.6741233,-20.4686937,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Cataratas,AZU - 5173,Varzea Grande,MT,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Deputado Benedito Santiago,AZU - 2610,Varzea Grande,MT,Alta Floresta,MT,-56.105199600000006,-9.8723571,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Governador Jorge Teixeira De Oliveira,AZU - 2480,Varzea Grande,MT,Porto Velho,RO,-63.89832,-8.7141702,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Governador Jose Richa,AZU - 2479,Varzea Grande,MT,Londrina,PR,-51.133159899999995,-23.332071399999997,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Guarulhos - Governador Andre Franco Montoro,AZU - 2481,Varzea Grande,MT,Guarulhos,SP,-46.478126,-23.434552899999996,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Ji-Parana,AZU - 4390,Varzea Grande,MT,Ji-Parana,RO,-61.848756200000004,-10.8746595,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Leite Lopes,AZU - 2959,Varzea Grande,MT,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Maestro Marinho Franco,AZU - 4973,Varzea Grande,MT,Rondonopolis,MT,-54.721858,-16.5885425,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Presidente Joao Batista Figueiredo,AZU - 2604,Varzea Grande,MT,Sinop,MT,-55.5814853,-11.8786454,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Presidente Juscelino Kubitschek,AZU - 2429,Varzea Grande,MT,Brasilia,DF,-47.9172348,-15.869736900000001,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Presidente Prudente,AZU - 2884,Varzea Grande,MT,Presidente Prudente,SP,-51.4176625,-22.1783402,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Professor Eriberto Manoel Reino,AZU - 4359,Varzea Grande,MT,Sao Jose Do Rio Preto,SP,-49.4066209,-20.8159034,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Regional De Maringa - Silvio Name Junior,AZU - 2507,Varzea Grande,MT,Maringa,PR,-52.0164842,-23.4766098,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Salgado Filho,AZU - 2967,Varzea Grande,MT,Porto Alegre,RS,-51.175381099999996,-29.9934732,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Santa Genoveva,AZU - 2697,Varzea Grande,MT,Goiania,GO,-49.2221166,-16.632488000000002,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Sorriso,AZU - 2898,Varzea Grande,MT,Sorriso,MT,-55.6753917,-12.479855699999998,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Tancredo Neves,AZU - 2597,Varzea Grande,MT,Confins,MG,-43.965396000000005,-19.634099,-56.117268700000004,-15.653078599999999
+Marechal Rondon,Viracopos,AZU - 4083,Varzea Grande,MT,Campinas,SP,-47.1375685,-23.008205,-56.117268700000004,-15.653078599999999
+Mario De Almeida Franco,Romeu Zema,AZU - 2444,Uberaba,MG,Araxa,MG,-46.965260799999996,-19.5603461,-47.9623702,-19.766046399999997
+Mario De Almeida Franco,Tancredo Neves,AZU - 2531,Uberaba,MG,Confins,MG,-43.965396000000005,-19.634099,-47.9623702,-19.766046399999997
+Mario De Almeida Franco,Viracopos,AZU - 5223,Uberaba,MG,Campinas,SP,-47.1375685,-23.008205,-47.9623702,-19.766046399999997
+Mario Ribeiro,Pampulha - Carlos Drummond De Andrade,AZU - 2946,Montes Claros,MG,Belo Horizonte,MG,-43.9548899,-19.8498475,-43.8200869,-16.704617199999998
+Mario Ribeiro,Tancredo Neves,AZU - 4067,Montes Claros,MG,Confins,MG,-43.965396000000005,-19.634099,-43.8200869,-16.704617199999998
+Ministro Victor Konder,Guarulhos - Governador Andre Franco Montoro,AZU - 5011,Navegantes,SC,Guarulhos,SP,-46.478126,-23.434552899999996,-48.649086700000005,-26.8805344
+Ministro Victor Konder,Salgado Filho,AZU - 4049,Navegantes,SC,Porto Alegre,RS,-51.175381099999996,-29.9934732,-48.649086700000005,-26.8805344
+Ministro Victor Konder,Santos Dumont,AZU - 2501,Navegantes,SC,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-48.649086700000005,-26.8805344
+Ministro Victor Konder,Viracopos,AZU - 4012,Navegantes,SC,Campinas,SP,-47.1375685,-23.008205,-48.649086700000005,-26.8805344
+Municipal Francisco De Matos Pereira,Viracopos,AZU - 4281,Dourados,MS,Campinas,SP,-47.1375685,-23.008205,-54.924882499999995,-22.1971221
+Nelson Rodrigues Guimaraes,Tancredo Neves,AZU - 2721,Caldas Novas,GO,Confins,MG,-43.965396000000005,-19.634099,-48.614822,-17.725328
+Nelson Rodrigues Guimaraes,Viracopos,AZU - 4947,Caldas Novas,GO,Campinas,SP,-47.1375685,-23.008205,-48.614822,-17.725328
+Orlando Bezerra De Menezes,Guararapes - Gilberto Freyre,AZU - 2931,Juazeiro Do Norte,CE,Recife,PE,-34.924015399999995,-8.1259315,-39.272229100000004,-7.215097200000001
+Orlando Bezerra De Menezes,Senador Nilo Coelho,AZU - 2685,Juazeiro Do Norte,CE,Petrolina,PE,-40.5660751,-9.3665077,-39.272229100000004,-7.215097200000001
+Orlando Bezerra De Menezes,Viracopos,AZU - 2499,Juazeiro Do Norte,CE,Campinas,SP,-47.1375685,-23.008205,-39.272229100000004,-7.215097200000001
+Pampulha - Carlos Drummond De Andrade,Cabo Frio,AZU - 2970,Belo Horizonte,MG,Cabo Frio,RJ,-42.079235700000005,-22.9256289,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Coronel Altino Machado,AZU - 2474,Belo Horizonte,MG,Governador Valadares,MG,-41.9854826,-18.897595499999998,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Eurico De Aguiar Salles,AZU - 5710,Belo Horizonte,MG,Vitoria,ES,-40.2835346,-20.257648899999996,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Guarulhos - Governador Andre Franco Montoro,AZU - 2483,Belo Horizonte,MG,Guarulhos,SP,-46.478126,-23.434552899999996,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Mario Ribeiro,AZU - 2494,Belo Horizonte,MG,Montes Claros,MG,-43.8200869,-16.704617199999998,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Presidente Juscelino Kubitschek,AZU - 5701,Belo Horizonte,MG,Brasilia,DF,-47.9172348,-15.869736900000001,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Santos Dumont,AZU - 4117,Belo Horizonte,MG,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Tenente-Coronel Aviador Cesar Bombonato,AZU - 2442,Belo Horizonte,MG,Uberlandia,MG,-48.2308653,-18.888969,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Usiminas,AZU - 2959,Belo Horizonte,MG,Santana Do Paraiso,MG,-42.4876846,-19.4744301,-43.9548899,-19.8498475
+Pampulha - Carlos Drummond De Andrade,Viracopos,AZU - 5782,Belo Horizonte,MG,Campinas,SP,-47.1375685,-23.008205,-43.9548899,-19.8498475
+Patos De Minas,Tancredo Neves,AZU - 6972,Patos De Minas,MG,Confins,MG,-43.965396000000005,-19.634099,-46.4925779,-18.671841699999998
+Patos De Minas,Viracopos,AZU - 2497,Patos De Minas,MG,Campinas,SP,-47.1375685,-23.008205,-46.4925779,-18.671841699999998
+Paulo Afonso,Deputado Luis Eduardo Magalhaes,AZU - 2789,Paulo Afonso,BA,Salvador,BA,-38.3312411,-12.9110977,-38.249740700000004,-9.4006288
+Pelotas,Salgado Filho,AZU - 2982,Pelotas,RS,Porto Alegre,RS,-51.175381099999996,-29.9934732,-52.3279312,-31.71795
+Pinto Martins,Eduardo Gomes,AZU - 2652,Fortaleza,CE,Manaus,AM,-60.046324899999995,-3.0358473999999998,-38.5330966,-3.7771555
+Pinto Martins,Governador Aluizio Alves,AZU - 2690,Fortaleza,CE,Natal,RN,-35.3673819,-5.768370200000001,-38.5330966,-3.7771555
+Pinto Martins,Guararapes - Gilberto Freyre,AZU - 2719,Fortaleza,CE,Recife,PE,-34.924015399999995,-8.1259315,-38.5330966,-3.7771555
+Pinto Martins,Guarulhos - Governador Andre Franco Montoro,AZU - 2747,Fortaleza,CE,Guarulhos,SP,-46.478126,-23.434552899999996,-38.5330966,-3.7771555
+Pinto Martins,Marechal Cunha Machado,AZU - 2892,Fortaleza,CE,Sao Luis,MA,-44.2348802,-2.5849927000000004,-38.5330966,-3.7771555
+Pinto Martins,Prefeito Doutor Joao Silva Filho,AZU - 4364,Fortaleza,CE,Parnaiba,PI,-41.7297975,-2.895248,-38.5330966,-3.7771555
+Pinto Martins,Presidente Castro Pinto,AZU - 2795,Fortaleza,CE,Bayeux,PB,-34.950613700000005,-7.147060000000001,-38.5330966,-3.7771555
+Pinto Martins,Senador Petronio Portella,AZU - 4234,Fortaleza,CE,Teresina,PI,-42.8211703,-5.0635434,-38.5330966,-3.7771555
+Pinto Martins,Tancredo Neves,AZU - 2749,Fortaleza,CE,Confins,MG,-43.965396000000005,-19.634099,-38.5330966,-3.7771555
+Pinto Martins,Val De Cans,AZU - 2718,Fortaleza,CE,Belem,PA,-48.4775227,-1.3820615,-38.5330966,-3.7771555
+Pinto Martins,Viracopos,AZU - 6963,Fortaleza,CE,Campinas,SP,-47.1375685,-23.008205,-38.5330966,-3.7771555
+Placido De Castro,Governador Jorge Teixeira De Oliveira,AZU - 4487,Sena Madureira,AC,Porto Velho,RO,-63.89832,-8.7141702,-67.894367,-9.870171000000001
+Ponta Grossa,Viracopos,AZU - 5781,Ponta Grossa,PR,Campinas,SP,-47.1375685,-23.008205,-49.1724811,-25.5327132
+Porto Seguro,Afonso Pena,AZU - 2457,Porto Seguro,BA,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-39.0821431,-16.4395303
+Porto Seguro,Congonhas,AZU - 2928,Porto Seguro,BA,Sao Paulo,SP,-46.6565842,-23.6273246,-39.0821431,-16.4395303
+Porto Seguro,Deputado Luis Eduardo Magalhaes,AZU - 2743,Porto Seguro,BA,Salvador,BA,-38.3312411,-12.9110977,-39.0821431,-16.4395303
+Porto Seguro,Guararapes - Gilberto Freyre,AZU - 2918,Porto Seguro,BA,Recife,PE,-34.924015399999995,-8.1259315,-39.0821431,-16.4395303
+Porto Seguro,Guarulhos - Governador Andre Franco Montoro,AZU - 5367,Porto Seguro,BA,Guarulhos,SP,-46.478126,-23.434552899999996,-39.0821431,-16.4395303
+Porto Seguro,Leite Lopes,AZU - 2785,Porto Seguro,BA,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-39.0821431,-16.4395303
+Porto Seguro,Presidente Juscelino Kubitschek,AZU - 5331,Porto Seguro,BA,Brasilia,DF,-47.9172348,-15.869736900000001,-39.0821431,-16.4395303
+Porto Seguro,Presidente Prudente,AZU - 2567,Porto Seguro,BA,Presidente Prudente,SP,-51.4176625,-22.1783402,-39.0821431,-16.4395303
+Porto Seguro,Professor Eriberto Manoel Reino,AZU - 2919,Porto Seguro,BA,Sao Jose Do Rio Preto,SP,-49.4066209,-20.8159034,-39.0821431,-16.4395303
+Porto Seguro,Santa Genoveva,AZU - 2797,Porto Seguro,BA,Goiania,GO,-49.2221166,-16.632488000000002,-39.0821431,-16.4395303
+Porto Seguro,Santos Dumont,AZU - 5105,Porto Seguro,BA,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-39.0821431,-16.4395303
+Porto Seguro,Tancredo Neves,AZU - 2757,Porto Seguro,BA,Confins,MG,-43.965396000000005,-19.634099,-39.0821431,-16.4395303
+Porto Seguro,Tenente-Coronel Aviador Cesar Bombonato,AZU - 2739,Porto Seguro,BA,Uberlandia,MG,-48.2308653,-18.888969,-39.0821431,-16.4395303
+Porto Seguro,Viracopos,AZU - 4185,Porto Seguro,BA,Campinas,SP,-47.1375685,-23.008205,-39.0821431,-16.4395303
+Prefeito Doutor Joao Silva Filho,Guararapes - Gilberto Freyre,AZU - 2885,Parnaiba,PI,Recife,PE,-34.924015399999995,-8.1259315,-41.7297975,-2.895248
+Prefeito Doutor Joao Silva Filho,Pinto Martins,AZU - 2797,Parnaiba,PI,Fortaleza,CE,-38.5330966,-3.7771555,-41.7297975,-2.895248
+Prefeito Doutor Joao Silva Filho,Senador Petronio Portella,AZU - 2794,Parnaiba,PI,Teresina,PI,-42.8211703,-5.0635434,-41.7297975,-2.895248
+Prefeito Renato Moreira,Marechal Cunha Machado,AZU - 2813,Imperatriz,MA,Sao Luis,MA,-44.2348802,-2.5849927000000004,-47.4560696,-5.5316945
+Prefeito Renato Moreira,Tancredo Neves,AZU - 2447,Imperatriz,MA,Confins,MG,-43.965396000000005,-19.634099,-47.4560696,-5.5316945
+Prefeito Renato Moreira,Val De Cans,AZU - 2892,Imperatriz,MA,Belem,PA,-48.4775227,-1.3820615,-47.4560696,-5.5316945
+Presidente Castro Pinto,Deputado Luis Eduardo Magalhaes,AZU - 2795,Bayeux,PB,Salvador,BA,-38.3312411,-12.9110977,-34.950613700000005,-7.147060000000001
+Presidente Castro Pinto,Guararapes - Gilberto Freyre,AZU - 2831,Bayeux,PB,Recife,PE,-34.924015399999995,-8.1259315,-34.950613700000005,-7.147060000000001
+Presidente Castro Pinto,Pinto Martins,AZU - 2796,Bayeux,PB,Fortaleza,CE,-38.5330966,-3.7771555,-34.950613700000005,-7.147060000000001
+Presidente Castro Pinto,Tancredo Neves,AZU - 2965,Bayeux,PB,Confins,MG,-43.965396000000005,-19.634099,-34.950613700000005,-7.147060000000001
+Presidente Castro Pinto,Viracopos,AZU - 2728,Bayeux,PB,Campinas,SP,-47.1375685,-23.008205,-34.950613700000005,-7.147060000000001
+Presidente Castro Pinto,Zumbi Dos Palmares,AZU - 6900,Bayeux,PB,Rio Largo,AL,-35.792882899999995,-9.5116056,-34.950613700000005,-7.147060000000001
+Presidente Joao Batista Figueiredo,Marechal Rondon,AZU - 2603,Sinop,MT,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-55.5814853,-11.8786454
+Presidente Joao Batista Figueiredo,Viracopos,AZU - 2601,Sinop,MT,Campinas,SP,-47.1375685,-23.008205,-55.5814853,-11.8786454
+Presidente Joao Suassuna,Guararapes - Gilberto Freyre,AZU - 6981,Campina Grande,PB,Recife,PE,-34.924015399999995,-8.1259315,-35.8940206,-7.2688784
+Presidente Joao Suassuna,Presidente Castro Pinto,AZU - 2728,Campina Grande,PB,Bayeux,PB,-34.950613700000005,-7.147060000000001,-35.8940206,-7.2688784
+Presidente Juscelino Kubitschek,Araguaina,AZU - 2829,Brasilia,DF,Araguaina,TO,-48.2405331,-7.228391499999999,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Barreiras,AZU - 2715,Brasilia,DF,Barreiras,BA,-45.010200299999994,-12.078983000000001,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Brigadeiro Lysias Rodrigues,AZU - 2508,Brasilia,DF,Palmas,TO,-48.3575251,-10.294325599999999,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Eduardo Gomes,AZU - 2864,Brasilia,DF,Manaus,AM,-60.046324899999995,-3.0358473999999998,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Guararapes - Gilberto Freyre,AZU - 4238,Brasilia,DF,Recife,PE,-34.924015399999995,-8.1259315,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Guarulhos - Governador Andre Franco Montoro,AZU - 2881,Brasilia,DF,Guarulhos,SP,-46.478126,-23.434552899999996,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Leite Lopes,AZU - 2714,Brasilia,DF,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Maraba,AZU - 4179,Brasilia,DF,Maraba,PA,-49.1369385,-5.3717191,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Marechal Rondon,AZU - 2428,Brasilia,DF,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Pampulha - Carlos Drummond De Andrade,AZU - 5700,Brasilia,DF,Belo Horizonte,MG,-43.9548899,-19.8498475,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Porto Seguro,AZU - 5330,Brasilia,DF,Porto Seguro,BA,-39.0821431,-16.4395303,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Santos Dumont,AZU - 2647,Brasilia,DF,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Senador Petronio Portella,AZU - 2880,Brasilia,DF,Teresina,PI,-42.8211703,-5.0635434,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Tancredo Neves,AZU - 2429,Brasilia,DF,Confins,MG,-43.965396000000005,-19.634099,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Tenente-Coronel Aviador Cesar Bombonato,AZU - 2928,Brasilia,DF,Uberlandia,MG,-48.2308653,-18.888969,-47.9172348,-15.869736900000001
+Presidente Juscelino Kubitschek,Viracopos,AZU - 2613,Brasilia,DF,Campinas,SP,-47.1375685,-23.008205,-47.9172348,-15.869736900000001
+Presidente Prudente,Governador Jose Richa,AZU - 2517,Presidente Prudente,SP,Londrina,PR,-51.133159899999995,-23.332071399999997,-51.4176625,-22.1783402
+Presidente Prudente,Guararapes - Gilberto Freyre,AZU - 2516,Presidente Prudente,SP,Recife,PE,-34.924015399999995,-8.1259315,-51.4176625,-22.1783402
+Presidente Prudente,Marechal Rondon,AZU - 2885,Presidente Prudente,SP,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-51.4176625,-22.1783402
+Presidente Prudente,Porto Seguro,AZU - 2566,Presidente Prudente,SP,Porto Seguro,BA,-39.0821431,-16.4395303,-51.4176625,-22.1783402
+Presidente Prudente,Regional De Maringa - Silvio Name Junior,AZU - 2567,Presidente Prudente,SP,Maringa,PR,-52.0164842,-23.4766098,-51.4176625,-22.1783402
+Presidente Prudente,Viracopos,AZU - 2627,Presidente Prudente,SP,Campinas,SP,-47.1375685,-23.008205,-51.4176625,-22.1783402
+Professor Eriberto Manoel Reino,Leite Lopes,AZU - 2564,Sao Jose Do Rio Preto,SP,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-49.4066209,-20.8159034
+Professor Eriberto Manoel Reino,Marechal Rondon,AZU - 4358,Sao Jose Do Rio Preto,SP,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-49.4066209,-20.8159034
+Professor Eriberto Manoel Reino,Porto Seguro,AZU - 2918,Sao Jose Do Rio Preto,SP,Porto Seguro,BA,-39.0821431,-16.4395303,-49.4066209,-20.8159034
+Professor Eriberto Manoel Reino,Tenente-Coronel Aviador Cesar Bombonato,AZU - 2738,Sao Jose Do Rio Preto,SP,Uberlandia,MG,-48.2308653,-18.888969,-49.4066209,-20.8159034
+Professor Eriberto Manoel Reino,Viracopos,AZU - 2598,Sao Jose Do Rio Preto,SP,Campinas,SP,-47.1375685,-23.008205,-49.4066209,-20.8159034
+Regional Da Zona Da Mata,Guarulhos - Governador Andre Franco Montoro,AZU - 2845,Goiana,MG,Guarulhos,SP,-46.478126,-23.434552899999996,-43.1709909,-21.514326800000003
+Regional Da Zona Da Mata,Viracopos,AZU - 2607,Goiana,MG,Campinas,SP,-47.1375685,-23.008205,-43.1709909,-21.514326800000003
+Regional De Maringa - Silvio Name Junior,Afonso Pena,AZU - 4983,Maringa,PR,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-52.0164842,-23.4766098
+Regional De Maringa - Silvio Name Junior,Campo Grande,AZU - 4361,Maringa,PR,Campo Grande,MS,-54.6741233,-20.4686937,-52.0164842,-23.4766098
+Regional De Maringa - Silvio Name Junior,Guarulhos - Governador Andre Franco Montoro,AZU - 2625,Maringa,PR,Guarulhos,SP,-46.478126,-23.434552899999996,-52.0164842,-23.4766098
+Regional De Maringa - Silvio Name Junior,Marechal Rondon,AZU - 2504,Maringa,PR,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-52.0164842,-23.4766098
+Regional De Maringa - Silvio Name Junior,Presidente Prudente,AZU - 2566,Maringa,PR,Presidente Prudente,SP,-51.4176625,-22.1783402,-52.0164842,-23.4766098
+Regional De Maringa - Silvio Name Junior,Salgado Filho,AZU - 2491,Maringa,PR,Porto Alegre,RS,-51.175381099999996,-29.9934732,-52.0164842,-23.4766098
+Regional De Maringa - Silvio Name Junior,Viracopos,AZU - 2981,Maringa,PR,Campinas,SP,-47.1375685,-23.008205,-52.0164842,-23.4766098
+Regional Hugo Cantergiani,Viracopos,AZU - 4275,Caxias Do Sul,RS,Campinas,SP,-47.1375685,-23.008205,-51.1869302,-29.1949191
+Romeu Zema,Mario De Almeida Franco,AZU - 2779,Araxa,MG,Uberaba,MG,-47.9623702,-19.766046399999997,-46.965260799999996,-19.5603461
+Romeu Zema,Patos De Minas,AZU - 6972,Araxa,MG,Patos De Minas,MG,-46.4925779,-18.671841699999998,-46.965260799999996,-19.5603461
+Romeu Zema,Tancredo Neves,AZU - 2779,Araxa,MG,Confins,MG,-43.965396000000005,-19.634099,-46.965260799999996,-19.5603461
+Rubem Berta,Salgado Filho,AZU - 4402,Uruguaiana,RS,Porto Alegre,RS,-51.175381099999996,-29.9934732,-57.035700600000006,-29.7839952
+Salgado Filho,Afonso Pena,AZU - 2478,Porto Alegre,RS,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-51.175381099999996,-29.9934732
+Salgado Filho,Cataratas,AZU - 5170,Porto Alegre,RS,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-51.175381099999996,-29.9934732
+Salgado Filho,Congonhas,AZU - 2729,Porto Alegre,RS,Sao Paulo,SP,-46.6565842,-23.6273246,-51.175381099999996,-29.9934732
+Salgado Filho,Governador Jose Richa,AZU - 4488,Porto Alegre,RS,Londrina,PR,-51.133159899999995,-23.332071399999997,-51.175381099999996,-29.9934732
+Salgado Filho,Guarulhos - Governador Andre Franco Montoro,AZU - 2470,Porto Alegre,RS,Guarulhos,SP,-46.478126,-23.434552899999996,-51.175381099999996,-29.9934732
+Salgado Filho,Hercilio Luz,AZU - 4338,Porto Alegre,RS,Florianopolis,SC,-48.5459657,-27.670118,-51.175381099999996,-29.9934732
+Salgado Filho,Lauro Carneiro De Loyola,AZU - 5015,Porto Alegre,RS,Joinville,SC,-48.799841799999996,-26.2234999,-51.175381099999996,-29.9934732
+Salgado Filho,Lauro Kurtz,AZU - 5230,Porto Alegre,RS,Passo Fundo,RS,-52.3296274,-28.2428363,-51.175381099999996,-29.9934732
+Salgado Filho,Marechal Rondon,AZU - 2782,Porto Alegre,RS,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-51.175381099999996,-29.9934732
+Salgado Filho,Ministro Victor Konder,AZU - 4105,Porto Alegre,RS,Navegantes,SC,-48.649086700000005,-26.8805344,-51.175381099999996,-29.9934732
+Salgado Filho,Pelotas,AZU - 5136,Porto Alegre,RS,Pelotas,RS,-52.3279312,-31.71795,-51.175381099999996,-29.9934732
+Salgado Filho,Regional De Maringa - Silvio Name Junior,AZU - 2490,Porto Alegre,RS,Maringa,PR,-52.0164842,-23.4766098,-51.175381099999996,-29.9934732
+Salgado Filho,Rubem Berta,AZU - 4401,Porto Alegre,RS,Uruguaiana,RS,-57.035700600000006,-29.7839952,-51.175381099999996,-29.9934732
+Salgado Filho,Santa Genoveva,AZU - 2896,Porto Alegre,RS,Goiania,GO,-49.2221166,-16.632488000000002,-51.175381099999996,-29.9934732
+Salgado Filho,Santa Maria,AZU - 5182,Porto Alegre,RS,Santa Maria,RS,-53.7008735,-29.7079582,-51.175381099999996,-29.9934732
+Salgado Filho,Santo Angelo,AZU - 2754,Porto Alegre,RS,Santo Angelo,RS,-54.171220999999996,-28.280432,-51.175381099999996,-29.9934732
+Salgado Filho,Santos Dumont,AZU - 2424,Porto Alegre,RS,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-51.175381099999996,-29.9934732
+Salgado Filho,Serafin Enoss Bertaso,AZU - 4252,Porto Alegre,RS,Chapeco,SC,-52.6606432,-27.134138500000002,-51.175381099999996,-29.9934732
+Salgado Filho,Tancredo Neves,AZU - 2536,Porto Alegre,RS,Confins,MG,-43.965396000000005,-19.634099,-51.175381099999996,-29.9934732
+Salgado Filho,Viracopos,AZU - 4045,Porto Alegre,RS,Campinas,SP,-47.1375685,-23.008205,-51.175381099999996,-29.9934732
+Salgado Filho,Zumbi Dos Palmares,AZU - 4348,Porto Alegre,RS,Rio Largo,AL,-35.792882899999995,-9.5116056,-51.175381099999996,-29.9934732
+Santa Genoveva,Afonso Pena,AZU - 2514,Goiania,GO,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-49.2221166,-16.632488000000002
+Santa Genoveva,Barra Do Garcas,AZU - 4207,Goiania,GO,Barra Do Garcas,MT,-52.390556,-15.858693400000002,-49.2221166,-16.632488000000002
+Santa Genoveva,Brigadeiro Lysias Rodrigues,AZU - 4148,Goiania,GO,Palmas,TO,-48.3575251,-10.294325599999999,-49.2221166,-16.632488000000002
+Santa Genoveva,Campo Grande,AZU - 6939,Goiania,GO,Campo Grande,MS,-54.6741233,-20.4686937,-49.2221166,-16.632488000000002
+Santa Genoveva,Guararapes - Gilberto Freyre,AZU - 2692,Goiania,GO,Recife,PE,-34.924015399999995,-8.1259315,-49.2221166,-16.632488000000002
+Santa Genoveva,Guarulhos - Governador Andre Franco Montoro,AZU - 2509,Goiania,GO,Guarulhos,SP,-46.478126,-23.434552899999996,-49.2221166,-16.632488000000002
+Santa Genoveva,Marechal Rondon,AZU - 2699,Goiania,GO,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-49.2221166,-16.632488000000002
+Santa Genoveva,Pinto Martins,AZU - 2690,Goiania,GO,Fortaleza,CE,-38.5330966,-3.7771555,-49.2221166,-16.632488000000002
+Santa Genoveva,Porto Seguro,AZU - 2794,Goiania,GO,Porto Seguro,BA,-39.0821431,-16.4395303,-49.2221166,-16.632488000000002
+Santa Genoveva,Salgado Filho,AZU - 2897,Goiania,GO,Porto Alegre,RS,-51.175381099999996,-29.9934732,-49.2221166,-16.632488000000002
+Santa Genoveva,Santos Dumont,AZU - 5053,Goiania,GO,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-49.2221166,-16.632488000000002
+Santa Genoveva,Tancredo Neves,AZU - 2524,Goiania,GO,Confins,MG,-43.965396000000005,-19.634099,-49.2221166,-16.632488000000002
+Santa Genoveva,Viracopos,AZU - 4123,Goiania,GO,Campinas,SP,-47.1375685,-23.008205,-49.2221166,-16.632488000000002
+Santa Maria,Deputado Luis Eduardo Magalhaes,AZU - 6410,Aracaju,SE,Salvador,BA,-38.3312411,-12.9110977,-37.07624620000001,-10.9822278
+Santa Maria,Guararapes - Gilberto Freyre,AZU - 2710,Aracaju,SE,Recife,PE,-34.924015399999995,-8.1259315,-37.07624620000001,-10.9822278
+Santa Maria,Salgado Filho,AZU - 5183,Santa Maria,RS,Porto Alegre,RS,-51.175381099999996,-29.9934732,-53.7008735,-29.7079582
+Santa Maria,Tancredo Neves,AZU - 4479,Aracaju,SE,Confins,MG,-43.965396000000005,-19.634099,-37.07624620000001,-10.9822278
+Santa Maria,Viracopos,AZU - 4100,Aracaju,SE,Campinas,SP,-47.1375685,-23.008205,-37.07624620000001,-10.9822278
+Santa Maria,Zumbi Dos Palmares,AZU - 4101,Aracaju,SE,Rio Largo,AL,-35.792882899999995,-9.5116056,-37.07624620000001,-10.9822278
+Santo Angelo,Salgado Filho,AZU - 2755,Santo Angelo,RS,Porto Alegre,RS,-51.175381099999996,-29.9934732,-54.171220999999996,-28.280432
+Santos Dumont,Afonso Pena,AZU - 2975,Rio De Janeiro,RJ,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.1648755,-22.911143799999998
+Santos Dumont,Bartolomeu Lisandro,AZU - 4014,Rio De Janeiro,RJ,Campos Dos Goytacazes,RJ,-41.30818370000001,-21.7011171,-43.1648755,-22.911143799999998
+Santos Dumont,Campo Grande,AZU - 2574,Rio De Janeiro,RJ,Campo Grande,MS,-54.6741233,-20.4686937,-43.1648755,-22.911143799999998
+Santos Dumont,Congonhas,AZU - 5101,Rio De Janeiro,RJ,Sao Paulo,SP,-46.6565842,-23.6273246,-43.1648755,-22.911143799999998
+Santos Dumont,Deputado Luis Eduardo Magalhaes,AZU - 2642,Rio De Janeiro,RJ,Salvador,BA,-38.3312411,-12.9110977,-43.1648755,-22.911143799999998
+Santos Dumont,Eurico De Aguiar Salles,AZU - 2409,Rio De Janeiro,RJ,Vitoria,ES,-40.2835346,-20.257648899999996,-43.1648755,-22.911143799999998
+Santos Dumont,Guarulhos - Governador Andre Franco Montoro,AZU - 2403,Rio De Janeiro,RJ,Guarulhos,SP,-46.478126,-23.434552899999996,-43.1648755,-22.911143799999998
+Santos Dumont,Hercilio Luz,AZU - 5050,Rio De Janeiro,RJ,Florianopolis,SC,-48.5459657,-27.670118,-43.1648755,-22.911143799999998
+Santos Dumont,Leite Lopes,AZU - 2606,Rio De Janeiro,RJ,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-43.1648755,-22.911143799999998
+Santos Dumont,Macae,AZU - 2460,Rio De Janeiro,RJ,Macae,RJ,-41.76548,-22.343016,-43.1648755,-22.911143799999998
+Santos Dumont,Ministro Victor Konder,AZU - 2500,Rio De Janeiro,RJ,Navegantes,SC,-48.649086700000005,-26.8805344,-43.1648755,-22.911143799999998
+Santos Dumont,Pampulha - Carlos Drummond De Andrade,AZU - 4127,Rio De Janeiro,RJ,Belo Horizonte,MG,-43.9548899,-19.8498475,-43.1648755,-22.911143799999998
+Santos Dumont,Porto Seguro,AZU - 5104,Rio De Janeiro,RJ,Porto Seguro,BA,-39.0821431,-16.4395303,-43.1648755,-22.911143799999998
+Santos Dumont,Presidente Juscelino Kubitschek,AZU - 2646,Rio De Janeiro,RJ,Brasilia,DF,-47.9172348,-15.869736900000001,-43.1648755,-22.911143799999998
+Santos Dumont,Salgado Filho,AZU - 4429,Rio De Janeiro,RJ,Porto Alegre,RS,-51.175381099999996,-29.9934732,-43.1648755,-22.911143799999998
+Santos Dumont,Santa Genoveva,AZU - 5052,Rio De Janeiro,RJ,Goiania,GO,-49.2221166,-16.632488000000002,-43.1648755,-22.911143799999998
+Santos Dumont,Tancredo Neves,AZU - 2501,Rio De Janeiro,RJ,Confins,MG,-43.965396000000005,-19.634099,-43.1648755,-22.911143799999998
+Santos Dumont,Tenente-Coronel Aviador Cesar Bombonato,AZU - 2534,Rio De Janeiro,RJ,Uberlandia,MG,-48.2308653,-18.888969,-43.1648755,-22.911143799999998
+Santos Dumont,Viracopos,AZU - 2539,Rio De Janeiro,RJ,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143799999998
+Sao Gabriel Da Cachoeira,Tefe,AZU - 2803,Sao Gabriel Da Cachoeira,AM,Tefe,AM,-64.7250955,-3.3804019999999997,-66.99130550000001,-0.1510764
+Senador Nilo Coelho,Guararapes - Gilberto Freyre,AZU - 4489,Petrolina,PE,Recife,PE,-34.924015399999995,-8.1259315,-40.5660751,-9.3665077
+Senador Nilo Coelho,Viracopos,AZU - 2685,Petrolina,PE,Campinas,SP,-47.1375685,-23.008205,-40.5660751,-9.3665077
+Senador Petronio Portella,Guararapes - Gilberto Freyre,AZU - 4257,Teresina,PI,Recife,PE,-34.924015399999995,-8.1259315,-42.8211703,-5.0635434
+Senador Petronio Portella,Marechal Cunha Machado,AZU - 4234,Teresina,PI,Sao Luis,MA,-44.2348802,-2.5849927000000004,-42.8211703,-5.0635434
+Senador Petronio Portella,Pinto Martins,AZU - 4235,Teresina,PI,Fortaleza,CE,-38.5330966,-3.7771555,-42.8211703,-5.0635434
+Senador Petronio Portella,Prefeito Doutor Joao Silva Filho,AZU - 2797,Teresina,PI,Parnaiba,PI,-41.7297975,-2.895248,-42.8211703,-5.0635434
+Senador Petronio Portella,Presidente Juscelino Kubitschek,AZU - 2881,Teresina,PI,Brasilia,DF,-47.9172348,-15.869736900000001,-42.8211703,-5.0635434
+Senador Petronio Portella,Tancredo Neves,AZU - 4411,Teresina,PI,Confins,MG,-43.965396000000005,-19.634099,-42.8211703,-5.0635434
+Senador Petronio Portella,Viracopos,AZU - 2644,Teresina,PI,Campinas,SP,-47.1375685,-23.008205,-42.8211703,-5.0635434
+Serafin Enoss Bertaso,Hercilio Luz,AZU - 4360,Chapeco,SC,Florianopolis,SC,-48.5459657,-27.670118,-52.6606432,-27.134138500000002
+Serafin Enoss Bertaso,Salgado Filho,AZU - 4253,Chapeco,SC,Porto Alegre,RS,-51.175381099999996,-29.9934732,-52.6606432,-27.134138500000002
+Serafin Enoss Bertaso,Viracopos,AZU - 4252,Chapeco,SC,Campinas,SP,-47.1375685,-23.008205,-52.6606432,-27.134138500000002
+Sorriso,Marechal Rondon,AZU - 2899,Sorriso,MT,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-55.6753917,-12.479855699999998
+Tabatinga,Eduardo Gomes,AZU - 2801,Tabatinga,AM,Manaus,AM,-60.046324899999995,-3.0358473999999998,-69.939394,-4.2503801
+Tabatinga,Tefe,AZU - 5163,Tabatinga,AM,Tefe,AM,-64.7250955,-3.3804019999999997,-69.939394,-4.2503801
+Tancredo Neves,Aeroporto Internacional Do Rio De Janeiro/Galeao,AZU - 2561,Confins,MG,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-43.965396000000005,-19.634099
+Tancredo Neves,Afonso Pena,AZU - 4423,Confins,MG,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.965396000000005,-19.634099
+Tancredo Neves,Altamira,AZU - 2842,Confins,MG,Altamira,PA,-52.2490864,-3.2535656000000004,-43.965396000000005,-19.634099
+Tancredo Neves,Bahia - Jorge Amado,AZU - 2694,Confins,MG,Ilheus,BA,-39.0317095,-14.8140511,-43.965396000000005,-19.634099
+Tancredo Neves,Barreiras,AZU - 2464,Confins,MG,Barreiras,BA,-45.010200299999994,-12.078983000000001,-43.965396000000005,-19.634099
+Tancredo Neves,Brigadeiro Lysias Rodrigues,AZU - 2458,Confins,MG,Palmas,TO,-48.3575251,-10.294325599999999,-43.965396000000005,-19.634099
+Tancredo Neves,Cabo Frio,AZU - 2822,Confins,MG,Cabo Frio,RJ,-42.079235700000005,-22.9256289,-43.965396000000005,-19.634099
+Tancredo Neves,Campo Grande,AZU - 2624,Confins,MG,Campo Grande,MS,-54.6741233,-20.4686937,-43.965396000000005,-19.634099
+Tancredo Neves,Carajas,AZU - 2936,Confins,MG,Parauapebas,PA,-50.0010055,-6.114454,-43.965396000000005,-19.634099
+Tancredo Neves,Cataratas,AZU - 2672,Confins,MG,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-43.965396000000005,-19.634099
+Tancredo Neves,Congonhas,AZU - 2471,Confins,MG,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000005,-19.634099
+Tancredo Neves,Coronel Altino Machado,AZU - 2578,Confins,MG,Governador Valadares,MG,-41.9854826,-18.897595499999998,-43.965396000000005,-19.634099
+Tancredo Neves,Deputado Luis Eduardo Magalhaes,AZU - 2758,Confins,MG,Salvador,BA,-38.3312411,-12.9110977,-43.965396000000005,-19.634099
+Tancredo Neves,Eduardo Gomes,AZU - 2570,Confins,MG,Manaus,AM,-60.046324899999995,-3.0358473999999998,-43.965396000000005,-19.634099
+Tancredo Neves,Eurico De Aguiar Salles,AZU - 2520,Confins,MG,Vitoria,ES,-40.2835346,-20.257648899999996,-43.965396000000005,-19.634099
+Tancredo Neves,Governador Aluizio Alves,AZU - 2752,Confins,MG,Natal,RN,-35.3673819,-5.768370200000001,-43.965396000000005,-19.634099
+Tancredo Neves,Governador Jorge Teixeira De Oliveira,AZU - 5250,Confins,MG,Porto Velho,RO,-63.89832,-8.7141702,-43.965396000000005,-19.634099
+Tancredo Neves,Guararapes - Gilberto Freyre,AZU - 2536,Confins,MG,Recife,PE,-34.924015399999995,-8.1259315,-43.965396000000005,-19.634099
+Tancredo Neves,Guarulhos - Governador Andre Franco Montoro,AZU - 2411,Confins,MG,Guarulhos,SP,-46.478126,-23.434552899999996,-43.965396000000005,-19.634099
+Tancredo Neves,Horacio De Mattos,AZU - 2820,Confins,MG,Lencois,BA,-41.2755432,-12.4837489,-43.965396000000005,-19.634099
+Tancredo Neves,Joao Durval Carneiro,AZU - 2991,Confins,MG,Feira De Santana,BA,-38.907428100000004,-12.2011856,-43.965396000000005,-19.634099
+Tancredo Neves,Leite Lopes,AZU - 4389,Confins,MG,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-43.965396000000005,-19.634099
+Tancredo Neves,Major Brigadeiro Trompowsky,AZU - 5171,Confins,MG,Varginha,MG,-45.4738081,-21.586537399999997,-43.965396000000005,-19.634099
+Tancredo Neves,Maraba,AZU - 2632,Confins,MG,Maraba,PA,-49.1369385,-5.3717191,-43.965396000000005,-19.634099
+Tancredo Neves,Marechal Cunha Machado,AZU - 2544,Confins,MG,Sao Luis,MA,-44.2348802,-2.5849927000000004,-43.965396000000005,-19.634099
+Tancredo Neves,Marechal Rondon,AZU - 2596,Confins,MG,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-43.965396000000005,-19.634099
+Tancredo Neves,Mario De Almeida Franco,AZU - 2530,Confins,MG,Uberaba,MG,-47.9623702,-19.766046399999997,-43.965396000000005,-19.634099
+Tancredo Neves,Mario Ribeiro,AZU - 2469,Confins,MG,Montes Claros,MG,-43.8200869,-16.704617199999998,-43.965396000000005,-19.634099
+Tancredo Neves,Nelson Rodrigues Guimaraes,AZU - 2720,Confins,MG,Caldas Novas,GO,-48.614822,-17.725328,-43.965396000000005,-19.634099
+Tancredo Neves,Patos De Minas,AZU - 2494,Confins,MG,Patos De Minas,MG,-46.4925779,-18.671841699999998,-43.965396000000005,-19.634099
+Tancredo Neves,Pinto Martins,AZU - 2748,Confins,MG,Fortaleza,CE,-38.5330966,-3.7771555,-43.965396000000005,-19.634099
+Tancredo Neves,Porto Seguro,AZU - 2756,Confins,MG,Porto Seguro,BA,-39.0821431,-16.4395303,-43.965396000000005,-19.634099
+Tancredo Neves,Prefeito Renato Moreira,AZU - 2446,Confins,MG,Imperatriz,MA,-47.4560696,-5.5316945,-43.965396000000005,-19.634099
+Tancredo Neves,Presidente Castro Pinto,AZU - 2964,Confins,MG,Bayeux,PB,-34.950613700000005,-7.147060000000001,-43.965396000000005,-19.634099
+Tancredo Neves,Presidente Juscelino Kubitschek,AZU - 2428,Confins,MG,Brasilia,DF,-47.9172348,-15.869736900000001,-43.965396000000005,-19.634099
+Tancredo Neves,Romeu Zema,AZU - 6972,Confins,MG,Araxa,MG,-46.965260799999996,-19.5603461,-43.965396000000005,-19.634099
+Tancredo Neves,Salgado Filho,AZU - 2537,Confins,MG,Porto Alegre,RS,-51.175381099999996,-29.9934732,-43.965396000000005,-19.634099
+Tancredo Neves,Santa Genoveva,AZU - 2521,Confins,MG,Goiania,GO,-49.2221166,-16.632488000000002,-43.965396000000005,-19.634099
+Tancredo Neves,Santa Maria,AZU - 4478,Confins,MG,Aracaju,SE,-37.07624620000001,-10.9822278,-43.965396000000005,-19.634099
+Tancredo Neves,Santos Dumont,AZU - 2546,Confins,MG,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-43.965396000000005,-19.634099
+Tancredo Neves,Senador Petronio Portella,AZU - 4410,Confins,MG,Teresina,PI,-42.8211703,-5.0635434,-43.965396000000005,-19.634099
+Tancredo Neves,Teixeira De Freitas,AZU - 2716,Confins,MG,Teixeira De Freitas,BA,-39.6695735,-17.522716600000003,-43.965396000000005,-19.634099
+Tancredo Neves,Tenente-Coronel Aviador Cesar Bombonato,AZU - 2526,Confins,MG,Uberlandia,MG,-48.2308653,-18.888969,-43.965396000000005,-19.634099
+Tancredo Neves,Usiminas,AZU - 2532,Confins,MG,Santana Do Paraiso,MG,-42.4876846,-19.4744301,-43.965396000000005,-19.634099
+Tancredo Neves,Val De Cans,AZU - 4174,Confins,MG,Belem,PA,-48.4775227,-1.3820615,-43.965396000000005,-19.634099
+Tancredo Neves,Valenca,AZU - 2702,Confins,MG,Valenca,BA,-38.991172999999996,-13.303276,-43.965396000000005,-19.634099
+Tancredo Neves,Viracopos,AZU - 2421,Confins,MG,Campinas,SP,-47.1375685,-23.008205,-43.965396000000005,-19.634099
+Tancredo Neves,Vitoria Da Conquista,AZU - 2560,Confins,MG,Vitoria Da Conquista,BA,-40.863057299999994,-14.8662434,-43.965396000000005,-19.634099
+Tancredo Neves,Zumbi Dos Palmares,AZU - 2750,Confins,MG,Rio Largo,AL,-35.792882899999995,-9.5116056,-43.965396000000005,-19.634099
+Tefe,Eduardo Gomes,AZU - 5089,Tefe,AM,Manaus,AM,-60.046324899999995,-3.0358473999999998,-64.7250955,-3.3804019999999997
+Tefe,Eirunepe,AZU - 2802,Tefe,AM,Eirunepe,AM,-69.88315190000002,-6.6368523,-64.7250955,-3.3804019999999997
+Tefe,Sao Gabriel Da Cachoeira,AZU - 2866,Tefe,AM,Sao Gabriel Da Cachoeira,AM,-66.99130550000001,-0.1510764,-64.7250955,-3.3804019999999997
+Tefe,Tabatinga,AZU - 5162,Tefe,AM,Tabatinga,AM,-69.939394,-4.2503801,-64.7250955,-3.3804019999999997
+Teixeira De Freitas,Tancredo Neves,AZU - 2717,Teixeira De Freitas,BA,Confins,MG,-43.965396000000005,-19.634099,-39.6695735,-17.522716600000003
+Tenente-Coronel Aviador Cesar Bombonato,Guararapes - Gilberto Freyre,AZU - 4975,Uberlandia,MG,Recife,PE,-34.924015399999995,-8.1259315,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Guarulhos - Governador Andre Franco Montoro,AZU - 5035,Uberlandia,MG,Guarulhos,SP,-46.478126,-23.434552899999996,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Pampulha - Carlos Drummond De Andrade,AZU - 2443,Uberlandia,MG,Belo Horizonte,MG,-43.9548899,-19.8498475,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Porto Seguro,AZU - 2738,Uberlandia,MG,Porto Seguro,BA,-39.0821431,-16.4395303,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Presidente Juscelino Kubitschek,AZU - 2829,Uberlandia,MG,Brasilia,DF,-47.9172348,-15.869736900000001,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Professor Eriberto Manoel Reino,AZU - 2739,Uberlandia,MG,Sao Jose Do Rio Preto,SP,-49.4066209,-20.8159034,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Santos Dumont,AZU - 2535,Uberlandia,MG,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Tancredo Neves,AZU - 2527,Uberlandia,MG,Confins,MG,-43.965396000000005,-19.634099,-48.2308653,-18.888969
+Tenente-Coronel Aviador Cesar Bombonato,Viracopos,AZU - 4967,Uberlandia,MG,Campinas,SP,-47.1375685,-23.008205,-48.2308653,-18.888969
+Trombetas,Macapa,AZU - 2827,Oriximina,PA,Macapa,AP,-51.067109499999994,0.05000809999999999,-56.390135,-1.4855014
+Trombetas,Maestro Wilson Fonseca,AZU - 2827,Oriximina,PA,Santarem,PA,-54.786243299999995,-2.4248295,-56.390135,-1.4855014
+Trombetas,Val De Cans,AZU - 2826,Oriximina,PA,Belem,PA,-48.4775227,-1.3820615,-56.390135,-1.4855014
+Tucurui,Maraba,AZU - 2990,Tucurui,PA,Maraba,PA,-49.1369385,-5.3717191,-49.720298799999995,-3.7860099999999997
+Tucurui,Val De Cans,AZU - 2990,Tucurui,PA,Belem,PA,-48.4775227,-1.3820615,-49.720298799999995,-3.7860099999999997
+Usiminas,Pampulha - Carlos Drummond De Andrade,AZU - 2935,Santana Do Paraiso,MG,Belo Horizonte,MG,-43.9548899,-19.8498475,-42.4876846,-19.4744301
+Usiminas,Tancredo Neves,AZU - 2617,Santana Do Paraiso,MG,Confins,MG,-43.965396000000005,-19.634099,-42.4876846,-19.4744301
+Val De Cans,Altamira,AZU - 2427,Belem,PA,Altamira,PA,-52.2490864,-3.2535656000000004,-48.4775227,-1.3820615
+Val De Cans,Carajas,AZU - 2808,Belem,PA,Parauapebas,PA,-50.0010055,-6.114454,-48.4775227,-1.3820615
+Val De Cans,Eduardo Gomes,AZU - 2718,Belem,PA,Manaus,AM,-60.046324899999995,-3.0358473999999998,-48.4775227,-1.3820615
+Val De Cans,Guararapes - Gilberto Freyre,AZU - 2654,Belem,PA,Recife,PE,-34.924015399999995,-8.1259315,-48.4775227,-1.3820615
+Val De Cans,Itaituba,AZU - 2826,Belem,PA,Itaituba,PA,-56.0068645,-4.2457249,-48.4775227,-1.3820615
+Val De Cans,Macapa,AZU - 2486,Belem,PA,Macapa,AP,-51.067109499999994,0.05000809999999999,-48.4775227,-1.3820615
+Val De Cans,Maestro Wilson Fonseca,AZU - 2655,Belem,PA,Santarem,PA,-54.786243299999995,-2.4248295,-48.4775227,-1.3820615
+Val De Cans,Maraba,AZU - 2631,Belem,PA,Maraba,PA,-49.1369385,-5.3717191,-48.4775227,-1.3820615
+Val De Cans,Marechal Cunha Machado,AZU - 4981,Belem,PA,Sao Luis,MA,-44.2348802,-2.5849927000000004,-48.4775227,-1.3820615
+Val De Cans,Pinto Martins,AZU - 2719,Belem,PA,Fortaleza,CE,-38.5330966,-3.7771555,-48.4775227,-1.3820615
+Val De Cans,Prefeito Renato Moreira,AZU - 2813,Belem,PA,Imperatriz,MA,-47.4560696,-5.5316945,-48.4775227,-1.3820615
+Val De Cans,Tancredo Neves,AZU - 4093,Belem,PA,Confins,MG,-43.965396000000005,-19.634099,-48.4775227,-1.3820615
+Val De Cans,Trombetas,AZU - 2827,Belem,PA,Oriximina,PA,-56.390135,-1.4855014,-48.4775227,-1.3820615
+Val De Cans,Tucurui,AZU - 2990,Belem,PA,Tucurui,PA,-49.720298799999995,-3.7860099999999997,-48.4775227,-1.3820615
+Valenca,Tancredo Neves,AZU - 2703,Valenca,BA,Confins,MG,-43.965396000000005,-19.634099,-38.991172999999996,-13.303276
+Valenca,Viracopos,AZU - 2703,Valenca,BA,Campinas,SP,-47.1375685,-23.008205,-38.991172999999996,-13.303276
+Viracopos,Adalberto Mendes Da Silva,AZU - 5040,Campinas,SP,Cascavel,PR,-53.501918,-25.001815,-47.1375685,-23.008205
+Viracopos,Aeroporto De Jaguaruna,AZU - 5188,Campinas,SP,Jaguaruna,SC,-49.0663451,-28.6767653,-47.1375685,-23.008205
+Viracopos,Aeroporto Internacional Do Rio De Janeiro/Galeao,AZU - 4241,Campinas,SP,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.1375685,-23.008205
+Viracopos,Aeroporto Regional Plinio Alarcon,AZU - 5176,Campinas,SP,Tres Lagoas,MG,-51.680240399999995,-20.754857,-47.1375685,-23.008205
+Viracopos,Afonso Pena,AZU - 2744,Campinas,SP,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-47.1375685,-23.008205
+Viracopos,Bahia - Jorge Amado,AZU - 4462,Campinas,SP,Ilheus,BA,-39.0317095,-14.8140511,-47.1375685,-23.008205
+Viracopos,Bauru/Arealva,AZU - 4417,Campinas,SP,Arealva,SP,-49.0721697,-22.165992199999998,-47.1375685,-23.008205
+Viracopos,Bonito,AZU - 4056,Campinas,SP,Bonito,MS,-56.4498277,-21.243192,-47.1375685,-23.008205
+Viracopos,Brigadeiro Cabral,AZU - 6990,Campinas,SP,Divinopolis,MG,-44.873941200000004,-20.1734608,-47.1375685,-23.008205
+Viracopos,Cabo Frio,AZU - 2568,Campinas,SP,Cabo Frio,RJ,-42.079235700000005,-22.9256289,-47.1375685,-23.008205
+Viracopos,Campo Grande,AZU - 2912,Campinas,SP,Campo Grande,MS,-54.6741233,-20.4686937,-47.1375685,-23.008205
+Viracopos,Cataratas,AZU - 2505,Campinas,SP,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-47.1375685,-23.008205
+Viracopos,Correia Pinto,AZU - 6958,Campinas,SP,Lages,SC,-50.2792827,-27.781831800000003,-47.1375685,-23.008205
+Viracopos,Corumba,AZU - 5194,Campinas,SP,Corumba,MS,-57.6608272,-19.016234,-47.1375685,-23.008205
+Viracopos,Deputado Luis Eduardo Magalhaes,AZU - 2475,Campinas,SP,Salvador,BA,-38.3312411,-12.9110977,-47.1375685,-23.008205
+Viracopos,Diomicio Freitas,AZU - 6902,Campinas,SP,Forquilhinha,SC,-49.4222546,-28.7232502,-47.1375685,-23.008205
+Viracopos,Eduardo Gomes,AZU - 2840,Campinas,SP,Manaus,AM,-60.046324899999995,-3.0358473999999998,-47.1375685,-23.008205
+Viracopos,Estadual Dario Guarita,AZU - 4334,Campinas,SP,Aracatuba,SP,-50.4259826,-21.137590799999998,-47.1375685,-23.008205
+Viracopos,Eurico De Aguiar Salles,AZU - 2986,Campinas,SP,Vitoria,ES,-40.2835346,-20.257648899999996,-47.1375685,-23.008205
+Viracopos,Frank Miloye Milenkovich,AZU - 4222,Campinas,SP,Marilia,SP,-49.9298086,-22.1970898,-47.1375685,-23.008205
+Viracopos,General Leite De Castro,AZU - 2512,Campinas,SP,Rio Verde,GO,-50.958645700000005,-17.836782,-47.1375685,-23.008205
+Viracopos,Governador Aluizio Alves,AZU - 4194,Campinas,SP,Natal,RN,-35.3673819,-5.768370200000001,-47.1375685,-23.008205
+Viracopos,Governador Jose Richa,AZU - 4382,Campinas,SP,Londrina,PR,-51.133159899999995,-23.332071399999997,-47.1375685,-23.008205
+Viracopos,Guararapes - Gilberto Freyre,AZU - 2736,Campinas,SP,Recife,PE,-34.924015399999995,-8.1259315,-47.1375685,-23.008205
+Viracopos,Hercilio Luz,AZU - 2786,Campinas,SP,Florianopolis,SC,-48.5459657,-27.670118,-47.1375685,-23.008205
+Viracopos,Joao Durval Carneiro,AZU - 2760,Campinas,SP,Feira De Santana,BA,-38.907428100000004,-12.2011856,-47.1375685,-23.008205
+Viracopos,Lauro Carneiro De Loyola,AZU - 4346,Campinas,SP,Joinville,SC,-48.799841799999996,-26.2234999,-47.1375685,-23.008205
+Viracopos,Lauro Kurtz,AZU - 2850,Campinas,SP,Passo Fundo,RS,-52.3296274,-28.2428363,-47.1375685,-23.008205
+Viracopos,Leite Lopes,AZU - 2866,Campinas,SP,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-47.1375685,-23.008205
+Viracopos,Maestro Marinho Franco,AZU - 5087,Campinas,SP,Rondonopolis,MT,-54.721858,-16.5885425,-47.1375685,-23.008205
+Viracopos,Marechal Rondon,AZU - 4080,Campinas,SP,Varzea Grande,MT,-56.117268700000004,-15.653078599999999,-47.1375685,-23.008205
+Viracopos,Mario De Almeida Franco,AZU - 5220,Campinas,SP,Uberaba,MG,-47.9623702,-19.766046399999997,-47.1375685,-23.008205
+Viracopos,Ministro Victor Konder,AZU - 4049,Campinas,SP,Navegantes,SC,-48.649086700000005,-26.8805344,-47.1375685,-23.008205
+Viracopos,Municipal Francisco De Matos Pereira,AZU - 4128,Campinas,SP,Dourados,MS,-54.924882499999995,-22.1971221,-47.1375685,-23.008205
+Viracopos,Nelson Rodrigues Guimaraes,AZU - 4946,Campinas,SP,Caldas Novas,GO,-48.614822,-17.725328,-47.1375685,-23.008205
+Viracopos,Orlando Bezerra De Menezes,AZU - 2685,Campinas,SP,Juazeiro Do Norte,CE,-39.272229100000004,-7.215097200000001,-47.1375685,-23.008205
+Viracopos,Pampulha - Carlos Drummond De Andrade,AZU - 5781,Campinas,SP,Belo Horizonte,MG,-43.9548899,-19.8498475,-47.1375685,-23.008205
+Viracopos,Patos De Minas,AZU - 2492,Campinas,SP,Patos De Minas,MG,-46.4925779,-18.671841699999998,-47.1375685,-23.008205
+Viracopos,Pinto Martins,AZU - 6946,Campinas,SP,Fortaleza,CE,-38.5330966,-3.7771555,-47.1375685,-23.008205
+Viracopos,Ponta Grossa,AZU - 5780,Campinas,SP,Ponta Grossa,PR,-49.1724811,-25.5327132,-47.1375685,-23.008205
+Viracopos,Porto Seguro,AZU - 4184,Campinas,SP,Porto Seguro,BA,-39.0821431,-16.4395303,-47.1375685,-23.008205
+Viracopos,Presidente Castro Pinto,AZU - 4244,Campinas,SP,Bayeux,PB,-34.950613700000005,-7.147060000000001,-47.1375685,-23.008205
+Viracopos,Presidente Joao Batista Figueiredo,AZU - 2600,Campinas,SP,Sinop,MT,-55.5814853,-11.8786454,-47.1375685,-23.008205
+Viracopos,Presidente Joao Suassuna,AZU - 2728,Campinas,SP,Campina Grande,PB,-35.8940206,-7.2688784,-47.1375685,-23.008205
+Viracopos,Presidente Juscelino Kubitschek,AZU - 4054,Campinas,SP,Brasilia,DF,-47.9172348,-15.869736900000001,-47.1375685,-23.008205
+Viracopos,Presidente Prudente,AZU - 2626,Campinas,SP,Presidente Prudente,SP,-51.4176625,-22.1783402,-47.1375685,-23.008205
+Viracopos,Professor Eriberto Manoel Reino,AZU - 4073,Campinas,SP,Sao Jose Do Rio Preto,SP,-49.4066209,-20.8159034,-47.1375685,-23.008205
+Viracopos,Regional Da Zona Da Mata,AZU - 2606,Campinas,SP,Goiana,MG,-43.1709909,-21.514326800000003,-47.1375685,-23.008205
+Viracopos,Regional De Maringa - Silvio Name Junior,AZU - 4258,Campinas,SP,Maringa,PR,-52.0164842,-23.4766098,-47.1375685,-23.008205
+Viracopos,Regional Hugo Cantergiani,AZU - 4274,Campinas,SP,Caxias Do Sul,RS,-51.1869302,-29.1949191,-47.1375685,-23.008205
+Viracopos,Salgado Filho,AZU - 4031,Campinas,SP,Porto Alegre,RS,-51.175381099999996,-29.9934732,-47.1375685,-23.008205
+Viracopos,Santa Genoveva,AZU - 4108,Campinas,SP,Goiania,GO,-49.2221166,-16.632488000000002,-47.1375685,-23.008205
+Viracopos,Santa Maria,AZU - 4101,Campinas,SP,Aracaju,SE,-37.07624620000001,-10.9822278,-47.1375685,-23.008205
+Viracopos,Santos Dumont,AZU - 2547,Campinas,SP,Rio De Janeiro,RJ,-43.1648755,-22.911143799999998,-47.1375685,-23.008205
+Viracopos,Senador Nilo Coelho,AZU - 2500,Campinas,SP,Petrolina,PE,-40.5660751,-9.3665077,-47.1375685,-23.008205
+Viracopos,Senador Petronio Portella,AZU - 2641,Campinas,SP,Teresina,PI,-42.8211703,-5.0635434,-47.1375685,-23.008205
+Viracopos,Serafin Enoss Bertaso,AZU - 4253,Campinas,SP,Chapeco,SC,-52.6606432,-27.134138500000002,-47.1375685,-23.008205
+Viracopos,Tancredo Neves,AZU - 2420,Campinas,SP,Confins,MG,-43.965396000000005,-19.634099,-47.1375685,-23.008205
+Viracopos,Tenente-Coronel Aviador Cesar Bombonato,AZU - 4966,Campinas,SP,Uberlandia,MG,-48.2308653,-18.888969,-47.1375685,-23.008205
+Viracopos,Valenca,AZU - 2702,Campinas,SP,Valenca,BA,-38.991172999999996,-13.303276,-47.1375685,-23.008205
+Viracopos,Zumbi Dos Palmares,AZU - 6982,Campinas,SP,Rio Largo,AL,-35.792882899999995,-9.5116056,-47.1375685,-23.008205
+Vitoria Da Conquista,Deputado Luis Eduardo Magalhaes,AZU - 2782,Vitoria Da Conquista,BA,Salvador,BA,-38.3312411,-12.9110977,-40.863057299999994,-14.8662434
+Vitoria Da Conquista,Joao Durval Carneiro,AZU - 2726,Vitoria Da Conquista,BA,Feira De Santana,BA,-38.907428100000004,-12.2011856,-40.863057299999994,-14.8662434
+Vitoria Da Conquista,Tancredo Neves,AZU - 2563,Vitoria Da Conquista,BA,Confins,MG,-43.965396000000005,-19.634099,-40.863057299999994,-14.8662434
+Zumbi Dos Palmares,Deputado Luis Eduardo Magalhaes,AZU - 6408,Rio Largo,AL,Salvador,BA,-38.3312411,-12.9110977,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Guararapes - Gilberto Freyre,AZU - 2689,Rio Largo,AL,Recife,PE,-34.924015399999995,-8.1259315,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Guarulhos - Governador Andre Franco Montoro,AZU - 2445,Rio Largo,AL,Guarulhos,SP,-46.478126,-23.434552899999996,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Leite Lopes,AZU - 4979,Rio Largo,AL,Ribeirao Preto,SP,-47.7751674,-21.134750699999998,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Presidente Castro Pinto,AZU - 6901,Rio Largo,AL,Bayeux,PB,-34.950613700000005,-7.147060000000001,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Salgado Filho,AZU - 4349,Rio Largo,AL,Porto Alegre,RS,-51.175381099999996,-29.9934732,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Santa Maria,AZU - 4100,Rio Largo,AL,Aracaju,SE,-37.07624620000001,-10.9822278,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Tancredo Neves,AZU - 2751,Rio Largo,AL,Confins,MG,-43.965396000000005,-19.634099,-35.792882899999995,-9.5116056
+Zumbi Dos Palmares,Viracopos,AZU - 4101,Rio Largo,AL,Campinas,SP,-47.1375685,-23.008205,-35.792882899999995,-9.5116056

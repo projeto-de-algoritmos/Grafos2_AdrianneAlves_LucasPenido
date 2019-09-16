@@ -48,10 +48,6 @@ for (key, aeroporto) in data['Aeroporto.Origem'].items():
 with open('listaAdjacência.json', 'w') as json_file:
     json.dump(listaDeAdjacencia, json_file)
 
-#print(listaDeAdjacencia)
-# Pegar número de aeroportos     
-qtd_nos = len(listaDeAdjacencia)
-
 def BFS(grafo, aeroporto_origem, aeroporto_destino):
     fila = []
     visitados = []
@@ -90,6 +86,11 @@ def imprime_menor_caminho(pai, aeroporto_origem, aeroporto_destino):
 
 largura, nivel, pai = BFS(listaDeAdjacencia, "Adalberto Mendes Da Silva", "Porto Seguro")
 #print(imprime_menor_caminho(pai, "Adalberto Mendes Da Silva", "Porto Seguro"))
+
+def imprime_arvore_geradora_minima(arvore):
+    print("\n==============================================\n")
+    for tupla in arvore:
+        print("|", tupla[0], "|", tupla[1], "|")
 
 def quicksort(vetor,inicio,fim, grafo_inteiro):
     if(inicio < fim):
@@ -136,29 +137,26 @@ def montar_tabela(aeroportos):
 
 def encontrar(aeroporto):
     for origem , destinos in tabela.items():
-        # print("Origem: ", origem, "Destinos: ", destinos) 
         if aeroporto in destinos: # Se aeroporto estiver nos destinos databela 
             return origem
     return None
 
-def unir(x, y):
-    xRepresentative = encontrar(x)
-    yRepresentative = encontrar(y)
-    tabela[yRepresentative] = tabela[yRepresentative].union(tabela[xRepresentative])
-    del tabela[xRepresentative]
+def unir(arvore_x, arvore_y):
+    origem_arvore_x = encontrar(arvore_x)
+    origem_arvore_y = encontrar(arvore_y)
+    tabela[origem_arvore_y] = tabela[origem_arvore_y].union(tabela[origem_arvore_x])
+    del tabela[origem_arvore_x]
 
 def kruskal(grafo):
-    # Ordenar arestas em crescente para selecionar os de menor custo
+    # Ordenar arestas em ordem crescente de custos para selecionar os de menor custo em O(1)
     arestas_ordenadas = ordena_arestas(grafo)
-
     arvore_geradora_minima = [] # Setando arvore geradora mínima como vetor vazio
     
     #Para os destinos na lista de origens (chaves)
     for destinos in grafo.keys():
         montar_tabela(destinos)
     for aresta in arestas_ordenadas: # Para cada aresta testa se pertencem à mesma árvore
-        if encontrar(aresta[0]) != encontrar(aresta[1]): # Se for de arvores diferentes adiciona na árvore geradora mínima
-            # print("Aresta 0", aresta[0], "Aresta 1:", aresta[1])
+        if encontrar(aresta[0]) != encontrar(aresta[1]): 
             arvore_geradora_minima.append(aresta)
             unir(aresta[0], aresta[1])
 
@@ -166,8 +164,8 @@ def kruskal(grafo):
 
 def kruskal_algoritmo(listaDeAdjacencia):
     qtd_nos = len(listaDeAdjacencia)
-
+    print("\n\n==========================\nNúmero de aeroportos: ", qtd_nos, "\n==========================\n")
     arvore_geradora_minima = kruskal(listaDeAdjacencia)
-    print(arvore_geradora_minima)
+    imprime_arvore_geradora_minima(arvore_geradora_minima)
 
 kruskal_algoritmo(listaDeAdjacencia)

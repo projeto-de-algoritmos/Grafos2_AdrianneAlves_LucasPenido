@@ -1,7 +1,11 @@
 import pandas as pd
-pd.read_csv('VoosAzul.csv').to_json('VoosAzul.json')
-
+import json
 from math import radians, cos, sin, asin, sqrt
+from prim import *
+from kruskal import *
+from dijkstra import *
+
+listaDeAdjacencia = {}
 
 # Formula de Haversine
 def haversine( a, b ):
@@ -19,153 +23,42 @@ def haversine( a, b ):
 
     return d
 
+def main():
 
-AdalbertoMendesDaSilva = {'latitude': -25.001815, 'longitude': -53.501918 }
-Viracopos = {'latitude': -23.008205, 'longitude': -47.1375685}
+    pd.read_csv('VoosAzul.csv').to_json('VoosAzul.json')
 
-print("Adalberto x Viracopos: " + str( haversine( AdalbertoMendesDaSilva, Viracopos) ) + " Km")
+    with open('VoosAzul.json') as json_file:
+        data = json.load(json_file)
 
-import json
+    # Montando lista de adjacência
+    for (key, aeroporto) in data['Aeroporto.Origem'].items():
+        if not listaDeAdjacencia.get(aeroporto):
+            listaDeAdjacencia[aeroporto] = {}
 
-with open('VoosAzul.json') as json_file:
-    data = json.load(json_file)
+        cordOrigem = {'latitude': data['LatOrig'][key], 'longitude': data['LongOrig'][key]}
+        cordDestino = {'latitude': data['LatDest'][key], 'longitude': data['LongDest'][key]}
 
-# print(data)
-listaDeAdjacencia = {}
+        listaDeAdjacencia[aeroporto][data['Aeroporto.Destino'][key]] = haversine(cordOrigem, cordDestino)
 
-# Montando lista de adjacência
-for (key, aeroporto) in data['Aeroporto.Origem'].items():
-    if not listaDeAdjacencia.get(aeroporto):
-        listaDeAdjacencia[aeroporto] = []
-
-    cordOrigem = {'latitude': data['LatOrig'][key], 'longitude': data['LongOrig'][key]}
-    cordDestino = {'latitude': data['LatDest'][key], 'longitude': data['LongDest'][key]}
-
-    listaDeAdjacencia[aeroporto].append([data['Aeroporto.Destino'][key], haversine(cordOrigem, cordDestino)])
+    # Salvando lista de adjacência
+    with open('listaAdjacência.json', 'w') as json_file:
+        json.dump(listaDeAdjacencia, json_file)
 
 
-# Salvando lista de adjacência
-with open('listaAdjacência.json', 'w') as json_file:
-    json.dump(listaDeAdjacencia, json_file)
+graph = {
+    'a': {'b': 4, 'c': 4},
+    'b': {'a': 4, 'c': 2},
+    'c': {'a': 4, 'd': 3, 'e': 4, 'f': 2},
+    'd': {'c': 3, 'e': 3},
+    'e': {'c': 4, 'd': 3, 'f': 3},
+    'f': {'c': 2, 'e': 3}
+}
 
-def BFS(grafo, aeroporto_origem, aeroporto_destino):
-    fila = []
-    visitados = []
-    largura = {}
-    ctdLargura = 1
-    nivel = {}
-    pai = {}
+# print(listaDeAdjacencia)
+main()
+qtd_nos = len(listaDeAdjacencia)
+print("\n\n==========================\nNúmero de aeroportos: ", qtd_nos, "\n==========================\n")
 
-    fila.append(aeroporto_origem)
-    largura[aeroporto_origem] = ctdLargura
-    nivel[aeroporto_origem] = 1
-    pai[aeroporto_origem] = None
-
-    while len(fila):
-        vertice = fila.pop(0)
-
-        for vizinho in grafo.get(vertice):
-            if not largura.get(vizinho[0]):
-                fila.append(vizinho[0])
-                ctdLargura += 1
-                largura[vizinho[0]] = ctdLargura
-                pai[vizinho[0]] = vertice
-                nivel[vizinho[0]] = nivel[vertice] + 1
-                if vizinho[0] == aeroporto_destino:
-                    return largura, nivel, pai
-    return 0
-
-def imprime_menor_caminho(pai, aeroporto_origem, aeroporto_destino):
-    menor_caminho = []
-    while aeroporto_destino != aeroporto_origem:
-        menor_caminho.insert(0, aeroporto_destino)
-        aeroporto_destino = pai[aeroporto_destino]
-
-    menor_caminho.insert(0, aeroporto_origem)
-    return menor_caminho
-
-largura, nivel, pai = BFS(listaDeAdjacencia, "Adalberto Mendes Da Silva", "Porto Seguro")
-#print(imprime_menor_caminho(pai, "Adalberto Mendes Da Silva", "Porto Seguro"))
-
-def imprime_arvore_geradora_minima(arvore):
-    print("\n==============================================\n")
-    for tupla in arvore:
-        print("|", tupla[0], "|", tupla[1], "|")
-
-def quicksort(vetor,inicio,fim, grafo_inteiro):
-    if(inicio < fim):
-        limites = sort(vetor,inicio,fim, grafo_inteiro) # limites[0] = pivô; limites[1] = inicio; limites[2] = fim
-        quicksort(vetor, limites[1], limites[0]-1, grafo_inteiro) #(vetor, inicio, pivo-1, grafo)        
-        quicksort(vetor, limites[0]+1, limites[2], grafo_inteiro) #(vetor, pivo+1, fim, grafo)
-
-def sort(vetor, inicio,fim, grafo_inteiro):
-    pivo = vetor[fim]
-    contador = inicio-1   
-
-    for posicao in range(inicio,fim):
-        if(distancia(grafo_inteiro, vetor[posicao]) <= distancia(grafo_inteiro, pivo)):
-            contador += 1
-            vetor[contador],vetor[posicao] = vetor[posicao],vetor[contador]
-
-    vetor[contador+1],vetor[fim] = vetor[fim],vetor[contador+1]
-    return contador+1,inicio,fim
-
-def distancia(grafo, aresta):
-    # Checa peso de dois nós ou arestas
-    origem = aresta[0]
-    destino = aresta[1]
-    for item in grafo[origem]:
-        if item[0] == destino:
-          distancia = item[1]
-    return distancia
-
-def ordena_arestas(grafo_inteiro):
-    arestas_ordenadas = []
-
-    # Armazenar tuplas de nos ordenadas de acordo com o peso
-    for chave ,vizinhos in grafo_inteiro.items():
-        for vizinho, peso in vizinhos:
-            arestas_ordenadas.append(tuple([chave, vizinho]))
-    quicksort(arestas_ordenadas, 0, len(arestas_ordenadas)-1, grafo_inteiro) # Vetor de tuplas de nós, inicio, fim, grafo
-    return arestas_ordenadas
-
-# Criando tabela inicial
-tabela = {}
-
-def montar_tabela(aeroportos):
-    tabela[aeroportos] = set([aeroportos]) # Setando aeroportos para cada aeroporto
-
-def encontrar(aeroporto):
-    for origem , destinos in tabela.items():
-        if aeroporto in destinos: # Se aeroporto estiver nos destinos databela 
-            return origem
-    return None
-
-def unir(arvore_x, arvore_y):
-    origem_arvore_x = encontrar(arvore_x)
-    origem_arvore_y = encontrar(arvore_y)
-    tabela[origem_arvore_y] = tabela[origem_arvore_y].union(tabela[origem_arvore_x])
-    del tabela[origem_arvore_x]
-
-def kruskal(grafo):
-    # Ordenar arestas em ordem crescente de custos para selecionar os de menor custo em O(1)
-    arestas_ordenadas = ordena_arestas(grafo)
-    arvore_geradora_minima = [] # Setando arvore geradora mínima como vetor vazio
-    
-    #Para os destinos na lista de origens (chaves)
-    for destinos in grafo.keys():
-        montar_tabela(destinos)
-    for aresta in arestas_ordenadas: # Para cada aresta testa se pertencem à mesma árvore
-        if encontrar(aresta[0]) != encontrar(aresta[1]): 
-            arvore_geradora_minima.append(aresta)
-            unir(aresta[0], aresta[1])
-
-    return arvore_geradora_minima
-
-def kruskal_algoritmo(listaDeAdjacencia):
-    qtd_nos = len(listaDeAdjacencia)
-    print("\n\n==========================\nNúmero de aeroportos: ", qtd_nos, "\n==========================\n")
-    arvore_geradora_minima = kruskal(listaDeAdjacencia)
-    imprime_arvore_geradora_minima(arvore_geradora_minima)
-
+prim_algoritmo(listaDeAdjacencia)
 kruskal_algoritmo(listaDeAdjacencia)
+dijkstra(listaDeAdjacencia, "Hercilio Luz", "Carajas")
